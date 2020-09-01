@@ -1,0 +1,886 @@
+d001.s001.t001	plan n	NONE
+d001.s002.t003	freitag n	venerdì	bn:00036512n
+d001.s002.t004	veröffentlichung n	NONE
+d001.s002.t005	dokument n	documento	bn:00028017n bn:00028016n bn:00028015n bn:00028018n
+d001.s002.t006	schwerpunkt n	attenzione
+d001.s002.t007	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d001.s002.t009	treibhausgas n	MONOSEMOUS	bn:00041712n
+d001.s002.t011	zukunft n	prossimo
+d001.s003.t001	text n	testo	bn:00076732n bn:03103700n bn:00069638n
+d001.s003.t004	regelung n	NONE
+d001.s003.t005	treibhausgas n	MONOSEMOUS	bn:00041712n
+d001.s003.t006	hindernis n	ostacolo	bn:00045274n bn:00044174n bn:00058512n bn:00058511n
+d001.s004.t002	verhandlung n	MONOSEMOUS	bn:00026838n
+d001.s004.t004	woche n	settimana	bn:00043484n bn:00014711n
+d001.s004.t005	welt n	NONE
+d001.s005.t001	text n	testo	bn:00076732n bn:03103700n bn:00069638n
+d001.s005.t002	geldmenge n	MONOSEMOUS	bn:00055652n
+d001.s005.t003	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d001.s005.t004	land n	NONE
+d001.s005.t005	erwärmung n	MONOSEMOUS	bn:00043415n
+d001.s006.t001	palette n	di
+d001.s006.t005	entscheidungsträger n	NONE
+d001.s007.t002	flexibilität n	flessibilità	bn:00035190n bn:03298514n bn:00035189n
+d001.s007.t005	washington n	washington	bn:00278956n bn:14813232n bn:00539878n bn:00288164n bn:00245584n bn:00581525n bn:00243121n bn:00591231n bn:00188685n bn:00225540n bn:03716209n bn:00575367n bn:00300328n bn:00453437n bn:01194817n bn:00494337n bn:03408949n bn:00003365n bn:02004838n bn:00207014n bn:00376801n bn:00032035n bn:00413635n
+d001.s008.t001	dokument n	testo
+d001.s008.t004	seite n	pagina	bn:00060158n bn:00250160n bn:00060163n
+d001.s008.t005	mittelpunkt n	NONE
+d001.s009.t001	grundriß n	MONOSEMOUS	bn:00035318n
+d001.s009.t005	prozent n	per_cento	bn:00061135n
+d001.s009.t008	entwicklungsland n	MONOSEMOUS	bn:00026694n
+d001.s009.t010	zeitraum n	periodo	bn:00207123n bn:00031261n bn:00061605n
+d001.s009.t011	prozent n	per_cento	bn:00061135n
+d001.s010.t001	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d001.s010.t003	prozent n	per_cento	bn:00061135n
+d001.s011.t001	europäische_gemeinschaft n	MONOSEMOUS	bn:15193907n
+d001.s011.t002	gespräch n	trattativa
+d001.s011.t003	freitag n	venerdì	bn:00036512n
+d001.s011.t004	auftrieb n	NONE
+d001.s011.t006	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d001.s011.t008	us-dollar n	MONOSEMOUS	bn:00079129n
+d001.s011.t009	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d001.s011.t010	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d001.s011.t011	klimawandel n	MONOSEMOUS	bn:00019782n
+d001.s011.t012	überschwemmung n	inondazione	bn:00035296n bn:00002954n
+d001.s011.t013	dürre n	siccità	bn:00749459n bn:00028863n
+d001.s011.t015	entwaldung n	MONOSEMOUS	bn:00025949n
+d001.s012.t001	freitag n	venerdì	bn:00036512n
+d001.s012.t002	feuerwerk n	NONE
+d001.s012.t003	gespräch n	trattativa
+d001.s012.t004	woche n	settimana	bn:00043484n bn:00014711n
+d001.s013.t002	formulierung n	NONE
+d001.s014.t002	linie n	linea	bn:17312520n bn:00051289n bn:00070193n bn:03875950n bn:00014457n bn:15758807n bn:00005605n bn:00051292n bn:00051290n bn:00051291n
+d001.s014.t003	china n	cina	bn:00016756n bn:13848280n bn:14343737n
+d001.s014.t005	bush-regierung n	MONOSEMOUS	bn:00014103n
+d001.s014.t006	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d001.s015.t001	vereinigte_staaten n	MONOSEMOUS	bn:00003341n
+d001.s015.t005	text n	testo	bn:00076732n bn:03103700n bn:00069638n
+d001.s016.t002	stunde n	NONE
+d001.s016.t003	erklärung n	NONE
+d001.s016.t004	vernunft n	NONE
+d001.s016.t006	woche n	NONE
+d001.s016.t007	vereinigte_staaten n	MONOSEMOUS	bn:00003341n
+d001.s016.t008	china n	NONE
+d001.s016.t009	erwärmung n	MONOSEMOUS	bn:00043415n
+d001.s017.t003	spiel n	gioco	bn:00037169n bn:00037180n bn:00037181n bn:00037182n bn:00062928n bn:00037183n bn:00062929n bn:00062956n bn:00007800n bn:00028604n
+d001.s017.t007	bruchlinie n	linea
+d001.s018.t001	kampf n	battaglia	bn:00020858n bn:00009079n bn:00009078n
+d001.s018.t002	rettung n	salvare
+d001.s018.t003	ökonomie n	economia	bn:00029678n bn:00029676n bn:00029683n
+d001.s018.t004	rettung n	salvare
+d001.s018.t005	planet n	NONE
+d001.s018.t006	china n	cina	bn:00016756n bn:13848280n bn:14343737n
+d001.s018.t007	vereinigte_staaten n	MONOSEMOUS	bn:00003341n
+d001.s018.t008	verpflichtung n	dovere	bn:00029239n bn:00064699n
+d001.s018.t009	land n	nazione	bn:00023235n bn:00023236n
+d001.s018.t010	dutzend n	MONOSEMOUS	bn:00000020n
+d001.s018.t011	land n	nazione	bn:00023235n bn:00023236n
+d001.s019.t003	delegierte n	NONE
+d001.s019.t004	costa_rica n	NONE
+d001.s019.t005	macht n	NONE
+d001.s019.t006	kosten n	NONE
+d001.s019.t007	land n	NONE
+d001.s019.t008	land n	NONE
+d001.s020.t001	spiel n	gioco	bn:00037169n bn:00037180n bn:00037181n bn:00037182n bn:00062928n bn:00037183n bn:00062929n bn:00062956n bn:00007800n bn:00028604n
+d001.s020.t004	mexiko n	messico	bn:00054693n bn:01034524n
+d001.s020.t005	mittelamerika n	america_centrale	bn:00017171n bn:03870348n
+d001.s021.t001	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d001.s021.t002	klimawandel n	MONOSEMOUS	bn:00019782n
+d001.s021.t003	vertrag n	trattato	bn:00000728n bn:00889947n
+d001.s021.t005	gespräch n	trattativa
+d001.s023.t002	offensive n	MONOSEMOUS	bn:00058674n
+d001.s023.t008	china n	cina	bn:00016756n bn:13848280n bn:14343737n
+d001.s023.t009	indien n	india	bn:00010203n
+d001.s024.t001	gespräch n	trattativa
+d001.s024.t003	delegierte n	NONE
+d001.s024.t005	frage n	NONE
+d001.s025.t004	flugzeug n	aereo	bn:16750414n bn:00002275n bn:00001697n
+d001.s025.t005	meeting n	MONOSEMOUS	bn:00041948n
+d001.s025.t006	tür n	porta	bn:00028247n bn:00034158n bn:00028248n
+d001.s025.t007	pressekonferenz n	conferenza_stampa	bn:00057552n bn:03650498n
+d001.s025.t008	woche n	settimana	bn:00043484n bn:00014711n
+d001.s026.t003	person n	persona	bn:00061715n bn:00046516n bn:00044576n
+d001.s026.t005	aktivist n	attivista	bn:00001171n bn:00001170n
+d001.s026.t007	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d001.s026.t008	meinung n	NONE
+d001.s026.t009	hand n	mano	bn:00042761n bn:00025555n bn:16037717n bn:00042759n bn:00042766n
+d001.s026.t010	hand n	mano	bn:00042761n bn:00025555n bn:16037717n bn:00042759n bn:00042766n
+d001.s026.t011	e-mail n	MONOSEMOUS	bn:00029345n
+d001.s027.t002	minister n	ministro	bn:00019727n bn:00014450n bn:00027288n bn:00001604n bn:00031083n bn:00041200n bn:00024459n bn:00055178n
+d001.s027.t003	mittwoch n	MONOSEMOUS	bn:00054897n
+d001.s028.t001	vizepräsident n	vice_presidente	bn:00079435n
+d001.s028.t002	politik n	politica_globale
+d001.s028.t003	organisation n	NONE
+d002.s001.t001	sieg n	vittoria	bn:00081253n bn:00078365n
+d002.s001.t002	israel n	israele	bn:03134193n bn:00047679n bn:00961357n bn:00047680n
+d002.s002.t002	triumph n	vittoria	bn:00078365n
+d002.s003.t001	dosis n	dose	bn:13808383n bn:00028320n
+d002.s003.t003	teamarbeit n	lavoro_di_squadra	bn:00076309n
+d002.s003.t005	sieg n	vittoria	bn:00081253n bn:00078365n
+d002.s004.t001	sieg n	trionfo	bn:00081253n bn:00078365n
+d002.s005.t001	spiel n	partita	bn:00037180n bn:00037181n
+d002.s005.t004	spitze n	NONE
+d002.s006.t002	spielfeld n	NONE
+d002.s006.t003	handgelenk n	polso	bn:00548556n bn:00006143n
+d002.s008.t002	spiel n	NONE
+d002.s008.t003	spiel n	gioco	bn:00037169n bn:00037180n bn:00037181n bn:00037182n bn:00062928n bn:00037183n bn:00062929n bn:00062956n bn:00007800n bn:00028604n
+d002.s008.t006	applaus n	applauso	bn:00005053n
+d002.s008.t008	pause n	intervallo	bn:00020419n bn:02946696n bn:00012901n bn:00081289n
+d002.s009.t001	punkt n	punto	bn:00036777n bn:00047730n bn:00025966n bn:15591207n bn:00027824n bn:00063213n bn:00063214n bn:00063223n bn:00063217n bn:00026622n bn:00063218n bn:00063215n bn:00063216n bn:00028329n bn:00063219n bn:03173404n
+d002.s009.t003	abend n	anche	bn:00031998n
+d002.s010.t001	spiel n	partita	bn:00037180n bn:00037181n
+d002.s010.t003	pause n	intervallo	bn:00020419n bn:02946696n bn:00012901n bn:00081289n
+d002.s010.t005	spielfeld n	campo	bn:00006752n
+d002.s010.t006	hand n	mano	bn:00042761n bn:00025555n bn:16037717n bn:00042759n bn:00042766n
+d002.s010.t007	spiel n	gioco	bn:00037169n bn:00037180n bn:00037181n bn:00037182n bn:00062928n bn:00037183n bn:00062929n bn:00062956n bn:00007800n bn:00028604n
+d002.s011.t001	ruder n	NONE
+d002.s013.t001	team n	squadra	bn:00073699n
+d002.s013.t005	pistole n	NONE
+d002.s014.t002	sieg n	loro
+d002.s014.t003	minute n	minuto	bn:00055094n
+d002.s015.t002	punkt n	NONE
+d002.s015.t003	linie n	linea	bn:17312520n bn:00051289n bn:00070193n bn:03875950n bn:00014457n bn:15758807n bn:00005605n bn:00051292n bn:00051290n bn:00051291n
+d002.s015.t004	kraft n	NONE
+d002.s016.t002	platz n	NONE
+d002.s016.t003	team n	squadra	bn:00073699n
+d002.s016.t004	israeli n	NONE
+d002.s016.t005	minute n	minuto	bn:00055094n
+d002.s016.t006	spiel n	partita	bn:00037180n bn:00037181n
+d002.s016.t008	saison n	stagione	bn:00070057n bn:00064200n bn:00072547n bn:00076429n bn:15456311n bn:00070056n
+d003.s001.t001	wall_street n	wall_street	bn:03411133n bn:00080397n bn:00714105n
+d003.s001.t003	dollar n	dollaro	bn:00028115n bn:00028114n bn:00013578n bn:00079129n
+d003.s001.t004	kurs n	ripresa
+d003.s002.t001	new_yorker_börse n	MONOSEMOUS	bn:00010302n
+d003.s002.t002	freitag n	venerdì	bn:00036512n
+d003.s002.t003	kurs n	ripresa
+d003.s002.t005	usa n	stati_uniti	bn:00003341n
+d003.s002.t006	indikator n	previsione
+d003.s002.t008	dollar n	dollaro	bn:00028115n bn:00028114n bn:00013578n bn:00079129n
+d003.s002.t009	dow_jones n	dow_jones	bn:00028458n
+d003.s002.t010	% n	%	bn:00061135n
+d003.s002.t011	nasdaq n	MONOSEMOUS	bn:00056893n
+d003.s002.t012	% n	%	bn:00061135n
+d003.s003.t002	zahl n	essere
+d003.s003.t003	dow_jones_industrial_average n	MONOSEMOUS	bn:00028458n
+d003.s003.t006	nasdaq n	MONOSEMOUS	bn:00056893n
+d003.s004.t001	index n	NONE
+d003.s004.t003	% n	%	bn:00061135n
+d003.s005.t001	markt n	mercato	bn:00053461n bn:00053459n bn:00053458n bn:14797012n
+d003.s006.t003	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d003.s007.t002	veröffentlichung n	pubblicazione	bn:00065106n bn:00047693n bn:00065108n
+d003.s007.t003	indikator n	previsione
+d003.s007.t004	wirtschaft n	NONE
+d003.s008.t001	usa n	stati_uniti	bn:00003341n
+d003.s008.t002	verkauf n	di
+d003.s008.t003	einzelhandel n	vendita_al_dettaglio	bn:00067417n bn:00067421n
+d003.s008.t004	november n	novembre	bn:00058192n
+d003.s008.t005	% n	%	bn:00061135n
+d003.s008.t006	monat n	mese	bn:00055794n bn:00014710n
+d003.s009.t002	verbraucher n	consumatore	bn:00022095n
+d003.s009.t003	dezember n	MONOSEMOUS	bn:00025645n
+d003.s009.t004	monat n	mese	bn:00055794n bn:00014710n
+d003.s009.t005	universität_von_michigan n	MONOSEMOUS	bn:00079156n
+d003.s010.t002	monat n	mese	bn:00055794n bn:00014710n
+d003.s011.t001	wert n	NONE
+d003.s011.t002	boden n	terreno	bn:00029425n bn:00041883n bn:00027386n
+d003.s013.t001	rendite n	rendimento	bn:02782001n bn:00047691n bn:02722909n
+d003.s013.t002	jahr n	NONE
+d003.s013.t003	mittwoch n	MONOSEMOUS	bn:00054897n
+d003.s013.t004	abend n	sera	bn:00031998n
+d003.s013.t005	% n	%	bn:00061135n
+d003.s013.t006	% n	NONE
+d003.s013.t007	anleihe n	bond	bn:00011974n
+d003.s013.t008	jahr n	NONE
+d003.s013.t009	% n	%	bn:00061135n
+d003.s013.t010	% n	%	bn:00061135n
+d004.s001.t001	vertrag n	NONE
+d004.s002.t001	bedenken n	NONE
+d004.s002.t002	gewalt n	violenza	bn:00034115n bn:00035772n
+d004.s002.t003	instabilität n	instabilità	bn:00045990n bn:00046933n
+d004.s002.t004	regierung n	governo	bn:00001426n bn:00007299n
+d004.s002.t005	samstag n	MONOSEMOUS	bn:00068696n
+d004.s002.t006	auktion n	MONOSEMOUS	bn:00007085n
+d004.s002.t008	infrastruktur n	infrastruttura	bn:00046727n bn:00008794n
+d004.s003.t002	vertrag n	NONE
+d004.s003.t003	china n	cina	bn:00016756n bn:13848280n bn:14343737n
+d004.s003.t004	rußland n	MONOSEMOUS	bn:00068622n
+d004.s003.t005	rolle n	ruolo	bn:00036823n bn:15978658n bn:00068130n bn:00036822n bn:00017749n
+d004.s003.t006	renovierung n	ristrutturazione	bn:00064229n
+d004.s003.t007	ölindustrie n	iracheno
+d004.s003.t008	jahrzehnt n	MONOSEMOUS	bn:00025646n
+d004.s003.t009	krieg n	guerra	bn:00080439n bn:00074023n
+d004.s004.t001	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s004.t002	anteil n	autorizzazione
+d004.s004.t003	feld n	NONE
+d004.s005.t001	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s005.t002	teilnahme n	NONE
+d004.s005.t003	auktion n	MONOSEMOUS	bn:00007085n
+d004.s005.t004	freitag n	venerdì	bn:00036512n
+d004.s006.t001	unternehmen n	NONE
+d004.s006.t002	gebot n	NONE
+d004.s007.t001	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s007.t002	vertrag n	accordo	bn:00022227n bn:00000726n
+d004.s007.t003	juni n	giugno	bn:00048592n
+d004.s007.t004	feld n	campo	bn:00034269n bn:00034266n bn:00034267n bn:00915509n bn:00017609n bn:03163042n bn:03137422n bn:00007985n bn:00034265n bn:00045000n bn:00034274n bn:00006752n
+d004.s008.t001	ölmulti n	MONOSEMOUS	bn:15440968n
+d004.s009.t001	irak n	iraq	bn:00002362n bn:00054510n
+d004.s009.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d004.s009.t003	krieg n	guerra	bn:00080439n bn:00074023n
+d004.s009.t004	tor n	porta	bn:00028247n bn:00028248n bn:09067535n bn:15087206n bn:00037496n bn:00040846n
+d004.s009.t005	weg n	strada	bn:00061005n bn:00080721n bn:00027352n bn:00030098n bn:00080722n
+d004.s010.t002	irak n	iraq	bn:00002362n bn:00054510n
+d004.s011.t001	bombardement n	MONOSEMOUS	bn:00008679n
+d004.s011.t002	dienstag n	MONOSEMOUS	bn:00078546n
+d004.s011.t003	instabilität n	instabilità	bn:00045990n bn:00046933n
+d004.s011.t007	irak n	iraq	bn:00002362n bn:00054510n
+d004.s011.t008	welt n	mondo	bn:00045153n bn:00028141n bn:00066418n bn:00029428n bn:00081622n bn:00022991n bn:00029424n bn:00063584n
+d004.s012.t002	chinese n	NONE
+d004.s012.t004	risiko n	rischio	bn:00030747n bn:00025171n
+d004.s012.t005	aktionär n	MONOSEMOUS	bn:00070914n
+d004.s013.t003	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s013.t004	vertrag n	stringere
+d004.s013.t005	ministerium n	ministero	bn:03743591n bn:00055180n
+d004.s014.t003	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d004.s015.t001	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s015.t004	wochenende n	settimana	bn:00080816n bn:00080813n
+d004.s015.t005	vertrag n	contratto	bn:00021275n bn:00022227n bn:02273261n
+d004.s016.t002	vertrag n	NONE
+d004.s016.t003	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s016.t004	vertrag n	contratto	bn:00021275n bn:00022227n bn:02273261n
+d004.s016.t005	feld n	NONE
+d004.s016.t006	haus n	NONE
+d004.s017.t001	sprecher n	portavoce	bn:00047203n bn:00073526n
+d004.s017.t002	china n	cina	bn:00016756n bn:13848280n bn:14343737n
+d004.s017.t003	weg n	strada	bn:00061005n bn:00080721n bn:00027352n bn:00030098n bn:00080722n
+d004.s017.t004	weltwirtschaft n	MONOSEMOUS	bn:01587256n
+d004.s018.t001	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s018.t002	verpflichtung n	impegno	bn:00029239n bn:00064699n bn:00058469n
+d004.s018.t003	irak n	iraq	bn:00002362n bn:00054510n
+d004.s019.t001	unternehmen n	compagnia	bn:00021287n bn:00021286n
+d004.s019.t002	gebot n	NONE
+d004.s019.t003	gebühr n	NONE
+d004.s019.t004	barrel n	barile	bn:00008694n
+d004.s019.t005	öl n	NONE
+d004.s019.t006	ministerium n	ministero	bn:03743591n bn:00055180n
+d004.s019.t007	feld n	campo	bn:00034269n bn:00034266n bn:00034267n bn:00915509n bn:00017609n bn:03163042n bn:03137422n bn:00007985n bn:00034265n bn:00045000n bn:00034274n bn:00006752n
+d005.s002.t001	fessel n	catena	bn:00034180n
+d005.s003.t002	mittwoch n	MONOSEMOUS	bn:00054897n
+d005.s003.t005	höhe n	importo	bn:00003604n
+d005.s003.t007	dollar n	NONE
+d005.s003.t009	euro n	euro	bn:00031888n bn:04586600n
+d005.s004.t002	bericht n	NONE
+d005.s005.t001	institut n	MONOSEMOUS	bn:00046952n
+d005.s005.t004	geld n	denaro	bn:00055644n bn:00055645n
+d005.s005.t007	zahlung n	pagamento	bn:00025954n bn:00061119n
+d005.s005.t008	gebühr n	NONE
+d005.s006.t002	wandelanleihe n	MONOSEMOUS	bn:00022372n
+d005.s006.t004	dollar n	NONE
+d005.s006.t005	geld n	NONE
+d005.s006.t006	investor n	MONOSEMOUS	bn:00047367n
+d005.s007.t002	summe n	somma	bn:00001296n bn:00876917n bn:00003604n bn:00003601n
+d005.s008.t003	zeit n	momento	bn:00077269n
+d005.s009.t004	investmentbank n	MONOSEMOUS	bn:00047365n
+d005.s010.t003	verbindlichkeit n	NONE
+d005.s010.t004	staat n	liberare
+d005.s010.t005	geld n	denaro	bn:00055644n bn:00055645n
+d005.s011.t001	donnerstag n	MONOSEMOUS	bn:00076744n
+d005.s011.t003	dollar n	NONE
+d005.s011.t004	kapital n	NONE
+d005.s013.t001	juni n	giugno	bn:00048592n
+d006.s002.t001	dutzend n	MONOSEMOUS	bn:00000020n
+d006.s003.t002	bericht n	NONE
+d006.s004.t002	verteidigung n	difesa	bn:00025878n bn:00050565n bn:00025871n bn:00025872n bn:00025880n bn:16708106n
+d006.s004.t003	vergewaltigung n	stupro	bn:00070782n bn:00006469n
+d006.s004.t004	bett n	letto	bn:00009475n bn:00009472n bn:00009474n
+d006.s004.t005	kind n	bambino	bn:00018346n bn:00018345n
+d006.s004.t006	haus n	casa	bn:00029305n bn:00044994n bn:00000356n bn:02449284n bn:00045000n
+d006.s004.t007	flamme n	fiamma	bn:05238884n bn:00034625n
+d006.s005.t001	donnerstag n	MONOSEMOUS	bn:00076744n
+d006.s005.t003	familie n	famiglia	bn:01684666n bn:00032894n bn:00032893n bn:00032892n bn:00032896n
+d006.s005.t005	connecticut n	MONOSEMOUS	bn:00021904n
+d006.s005.t007	todesurteil n	pena_di_morte	bn:00015656n
+d006.s005.t008	jury n	giuria	bn:14152850n bn:00048658n
+d006.s006.t003	gericht n	NONE
+d006.s006.t005	berufung n	NONE
+d006.s006.t006	gericht n	tribunale	bn:00023301n bn:00023308n
+d006.s006.t007	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d006.s007.t002	berichterstattung n	NONE
+d006.s007.t006	jury n	giuria	bn:14152850n bn:00048658n
+d006.s008.t001	einspruch n	NONE
+d006.s008.t002	frage n	NONE
+d006.s009.t005	recht n	diritto	bn:00048655n bn:00067807n
+d006.s010.t001	richter n	giudice	bn:00207779n bn:00048488n
+d006.s010.t003	woche n	settimana	bn:00043484n bn:00014711n
+d006.s010.t007	beweis n	prova	bn:00020446n bn:00053828n bn:00032047n bn:00032045n bn:00051859n
+d006.s010.t008	jury n	giuria	bn:14152850n bn:00048658n
+d006.s010.t009	leidenschaft n	condizionare
+d006.s011.t001	sicherheit n	NONE
+d006.s011.t002	wort n	parola	bn:00023218n bn:00047028n bn:00081547n bn:00081546n bn:00852566n
+d006.s012.t001	jahrzehnt n	MONOSEMOUS	bn:00025646n
+d006.s012.t002	berichterstattung n	reportage	bn:00023362n
+d006.s012.t004	zweifel n	NONE
+d006.s012.t005	fairness n	NONE
+d006.s013.t001	entscheidung n	NONE
+d006.s013.t002	oberster_gerichtshof n	del
+d006.s013.t003	vereinigte_staaten n	MONOSEMOUS	bn:00003341n
+d006.s013.t004	urteil n	condanna	bn:00021628n bn:00048496n
+d006.s013.t006	osteopathen n	MONOSEMOUS	bn:00059675n
+d006.s013.t007	cleveland n	cleveland	bn:00346213n bn:16286146n bn:00470639n bn:00683864n bn:00581720n bn:00460668n bn:00126421n bn:00551816n bn:03384755n bn:00565011n bn:00572852n bn:00408638n bn:00210446n bn:00598392n bn:00495530n bn:00019742n
+d006.s013.t008	frau n	moglie	bn:00053531n
+d006.s013.t009	entscheidung n	decisione	bn:00021584n bn:00003132n bn:00048496n bn:00018661n bn:00025693n bn:00021590n
+d006.s014.t001	fernsehserie n	ritenere
+d006.s014.t002	spielfilm n	film	bn:00033878n bn:00034471n
+d006.s014.t004	verbrechen n	reato	bn:00023807n
+d006.s015.t001	rechtsanwalt n	avvocato	bn:00007051n bn:00008722n bn:01485021n
+d006.s015.t002	verurteilung n	condanna	bn:00021628n bn:00021624n
+d006.s015.t003	jahrhundert n	NONE
+d006.s015.t004	argument n	argomento	bn:00005600n bn:00005603n bn:00679582n bn:03364015n bn:00005599n
+d006.s015.t007	zeit n	momento	bn:00077269n
+d006.s016.t006	professor n	professore	bn:00064601n
+d006.s016.t007	todesstrafe n	pena_di_morte	bn:03409024n bn:00015656n
+d006.s016.t008	connecticut n	MONOSEMOUS	bn:00021904n
+d006.s017.t001	bericht n	rapporto	bn:00067181n
+d006.s018.t001	professor n	professore	bn:00064601n
+d006.s018.t002	idee n	idea	bn:00045800n
+d006.s018.t003	kommunikation n	comunicazione	bn:00021221n bn:00021226n
+d006.s019.t001	rechtsanwalt n	avvocato	bn:00007051n bn:00008722n bn:01485021n
+d006.s019.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d006.s019.t003	verurteilung n	sentenza	bn:00021628n
+d006.s020.t001	verteidiger n	avvocato_della_difesa	bn:00025890n
+d006.s020.t003	richter n	giudice	bn:00207779n bn:00048488n
+d006.s020.t005	juror n	giurato	bn:00048657n bn:00048658n
+d006.s021.t001	juror n	giurato	bn:00048657n bn:00048658n
+d006.s021.t002	foto n	fotografia	bn:00032381n
+d006.s021.t004	jahr n	NONE
+d006.s021.t005	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d006.s021.t006	jahr n	NONE
+d006.s021.t007	abscheu n	michaela
+d006.s022.t001	verteidiger n	avvocato_della_difesa	bn:00025890n
+d006.s022.t003	todesstrafe n	pena_di_morte	bn:03409024n bn:00015656n
+d006.s022.t005	frage n	NONE
+d006.s022.t006	richter n	giudice	bn:00207779n bn:00048488n
+d006.s022.t007	juror n	giurato	bn:00048657n bn:00048658n
+d006.s022.t009	staatsanwaltschaft n	pubblico_ministero	bn:15817341n bn:00064806n
+d006.s022.t012	urteil n	verdetto	bn:00034552n bn:00021628n bn:00048496n
+d006.s022.t013	entscheidung n	decisione	bn:00021584n bn:00003132n bn:00048496n bn:00018661n bn:00025693n bn:00021590n
+d006.s022.t014	jury n	giuria	bn:14152850n bn:00048658n
+d006.s022.t015	wochenende n	fine_settimana	bn:00080816n bn:00080813n
+d006.s023.t001	juror n	giurato	bn:00048657n bn:00048658n
+d006.s024.t001	argument n	discussione	bn:00005599n
+d006.s024.t003	berichterstattung n	reportage	bn:00023362n
+d006.s025.t001	monat n	NONE
+d006.s025.t004	connecticut n	MONOSEMOUS	bn:00021904n
+d006.s025.t005	wahlkampf n	campagna_elettorale	bn:00255052n bn:00015050n
+d006.s025.t007	gouverneur n	governatore	bn:00136827n bn:00041204n
+d006.s025.t008	senat n	senato	bn:16369331n bn:00070461n bn:03735249n bn:15713886n bn:03208354n bn:00225794n bn:00070458n bn:00386613n
+d006.s025.t009	kandidat n	candidato	bn:00015056n bn:00015205n
+d006.s026.t002	flamme n	fuoco	bn:00034625n
+d006.s026.t003	emotion n	emozione	bn:00033963n bn:00030581n
+d006.s027.t001	kamera n	NONE
+d006.s027.t004	rechtsanwalt n	avvocato	bn:00007051n bn:00008722n bn:01485021n
+d006.s028.t001	schwerpunkt n	attenzione
+d006.s028.t002	berichterstattung n	reportage	bn:00023362n
+d006.s029.t001	interview n	intervista	bn:00047238n
+d006.s029.t002	journalist n	giornalista	bn:00022866n bn:00048461n
+d006.s029.t005	bericht n	NONE
+d006.s029.t007	berichterstattung n	reportage	bn:00023362n
+d006.s030.t001	rechtsanwalt n	avvocato	bn:00007051n bn:00008722n bn:01485021n
+d006.s030.t002	argument n	argomento	bn:00005600n bn:00005603n bn:00679582n bn:03364015n bn:00005599n
+d006.s030.t004	gericht n	giudice
+d006.s031.t001	rechtsanwalt n	avvocato	bn:00007051n bn:00008722n bn:01485021n
+d006.s032.t001	einspruch n	NONE
+d006.s032.t002	entscheidung n	decisione	bn:00021584n bn:00003132n bn:00048496n bn:00018661n bn:00025693n bn:00021590n
+d006.s032.t003	oberster_gerichtshof n	del
+d006.s032.t004	verurteilung n	NONE
+d006.s032.t005	berichterstattung n	reportage	bn:00023362n
+d006.s033.t002	jahrhundert n	secolo	bn:00910014n bn:00017234n
+d007.s001.t001	sport n	sport	bn:00006759n bn:14540978n
+d007.s002.t003	wille n	NONE
+d007.s003.t005	november n	novembre	bn:00058192n
+d007.s003.t007	tinte n	MONOSEMOUS	bn:00046794n
+d007.s004.t001	minute n	minuto	bn:00055094n
+d007.s004.t002	team n	squadra	bn:00073699n
+d007.s004.t003	zeit n	tempo	bn:00077269n bn:00077267n bn:01229808n bn:00077268n bn:00076545n bn:00077270n bn:00077271n
+d007.s004.t005	schiedsrichter n	arbitro	bn:14866890n bn:00035711n bn:00058701n bn:02191677n bn:00005340n bn:00078929n bn:03753491n
+d007.s006.t002	trainer n	allenatore	bn:00020120n bn:03787052n bn:00020119n bn:00077924n
+d007.s006.t003	club n	NONE
+d007.s006.t006	geldbetrag n	somma	bn:00003601n
+d007.s007.t004	praxis n	pratica	bn:00063989n bn:00061054n bn:00028736n
+d007.s007.t005	welt n	mondo	bn:00045153n bn:00028141n bn:00066418n bn:00029428n bn:00081622n bn:00022991n bn:00029424n bn:00063584n
+d007.s007.t006	fußball n	calcio	bn:00006547n bn:00035704n bn:00035705n
+d007.s008.t002	ethos n	NONE
+d007.s009.t002	debatte n	dibattito	bn:00005601n bn:00025621n bn:00055838n
+d007.s009.t004	team n	NONE
+d007.s009.t005	fußballclub n	NONE
+d007.s009.t007	hymne n	inno	bn:00004527n bn:00004526n
+d007.s009.t009	ehre n	onore	bn:00044653n bn:00254237n bn:00044654n
+d007.s009.t013	dramatisierung n	MONOSEMOUS	bn:00028615n
+d007.s009.t014	geschichte n	storia	bn:00056857n bn:00035305n bn:00044270n bn:00044269n bn:00000738n bn:00044268n bn:00074472n bn:00044267n
+d007.s010.t002	debatte n	dibattito	bn:00005601n bn:00025621n bn:00055838n
+d007.s010.t005	sport n	sport	bn:00006759n bn:14540978n
+d007.s011.t003	sport n	sportivo	bn:00006759n
+d007.s011.t004	sinn n	senso	bn:00000657n bn:00070494n bn:00046139n bn:00070499n bn:00021164n bn:00070497n bn:00070498n
+d007.s014.t003	spieler n	giocatore	bn:01060449n bn:00037167n bn:00060799n bn:00001176n bn:00037168n
+d007.s015.t003	falschspiel n	MONOSEMOUS	bn:00015925n
+d007.s015.t007	schiedsrichter n	arbitro	bn:14866890n bn:00035711n bn:00058701n bn:02191677n bn:00005340n bn:00078929n bn:03753491n
+d007.s017.t001	frage n	domanda	bn:00030951n bn:03093952n bn:00047208n
+d007.s018.t005	team n	squadra	bn:00073699n
+d007.s019.t003	club n	club	bn:09056131n bn:00020039n bn:00899174n
+d007.s020.t004	teilnahme n	partecipazione	bn:00030844n
+d007.s021.t003	team n	squadra	bn:00073699n
+d007.s026.t002	strafe n	punizione	bn:03857154n bn:00061325n
+d007.s028.t002	polemik n	NONE
+d007.s029.t003	sport n	sport	bn:00006759n bn:14540978n
+d008.s001.t001	mikrobe n	microbo	bn:00054731n bn:00013701n
+d008.s001.t003	erde n	terra	bn:00045153n bn:00029429n bn:03174468n bn:00029427n bn:00029425n bn:15295954n bn:00041883n bn:00029424n bn:03817654n bn:00027386n bn:00028934n bn:01340315n bn:02353516n bn:08339900n bn:01408141n
+d008.s002.t001	entdeckung n	MONOSEMOUS	bn:00027529n
+d008.s002.t002	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s002.t005	erde n	terra	bn:00045153n bn:00029429n bn:03174468n bn:00029427n bn:00029425n bn:15295954n bn:00041883n bn:00029424n bn:03817654n bn:00027386n bn:00028934n bn:01340315n bn:02353516n bn:08339900n bn:01408141n
+d008.s003.t001	wissenschaftler n	ricercatore	bn:00069680n
+d008.s003.t002	bakterium n	MONOSEMOUS	bn:00007854n
+d008.s003.t003	erde n	terra	bn:00045153n bn:00029429n bn:03174468n bn:00029427n bn:00029425n bn:15295954n bn:00041883n bn:00029424n bn:03817654n bn:00027386n bn:00028934n bn:01340315n bn:02353516n bn:08339900n bn:01408141n
+d008.s003.t004	ansicht n	il
+d008.s003.t006	leben n	vita	bn:00051054n bn:00051053n bn:00051052n bn:00051048n bn:00002761n bn:00010534n bn:00051047n bn:00051046n bn:00051045n bn:00051049n bn:14889509n bn:00051050n
+d008.s003.t007	element n	elemento	bn:00021396n bn:00054282n bn:00727025n bn:21706302n bn:00018105n bn:00030300n bn:00021394n
+d008.s005.t002	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s005.t003	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s006.t005	bericht n	rapporto	bn:00067181n
+d008.s006.t006	donnerstag n	MONOSEMOUS	bn:00076744n
+d008.s006.t007	zeitschrift n	rivista	bn:00052671n bn:00048453n
+d008.s007.t001	kohlenstoff n	carbonio	bn:00006890n bn:13590835n
+d008.s007.t002	wasserstoff n	MONOSEMOUS	bn:00006823n
+d008.s007.t003	stickstoff n	MONOSEMOUS	bn:00006901n
+d008.s007.t004	sauerstoff n	ossigeno	bn:00006912n bn:21121155n
+d008.s007.t005	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s007.t006	schwefel n	zolfo	bn:00006846n bn:00013137n
+d008.s008.t001	wissenschaftler n	ricercatore	bn:00069680n
+d008.s008.t002	bakterium n	MONOSEMOUS	bn:00007854n
+d008.s008.t004	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s008.t005	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s009.t002	bericht n	rapporto	bn:00067181n
+d008.s010.t001	entdeckung n	MONOSEMOUS	bn:00027529n
+d008.s010.t004	leben n	vita	bn:00051054n bn:00051053n bn:00051052n bn:00051048n bn:00002761n bn:00010534n bn:00051047n bn:00051046n bn:00051045n bn:00051049n bn:14889509n bn:00051050n
+d008.s010.t005	wissenschaftler n	ricercatore	bn:00069680n
+d008.s010.t006	leben n	vita	bn:00051054n bn:00051053n bn:00051052n bn:00051048n bn:00002761n bn:00010534n bn:00051047n bn:00051046n bn:00051045n bn:00051049n bn:14889509n bn:00051050n
+d008.s010.t007	form n	vita
+d008.s011.t002	mikrobe n	microbo	bn:00054731n bn:00013701n
+d008.s011.t003	erde n	terra	bn:00045153n bn:00029429n bn:03174468n bn:00029427n bn:00029425n bn:15295954n bn:00041883n bn:00029424n bn:03817654n bn:00027386n bn:00028934n bn:01340315n bn:02353516n bn:08339900n bn:01408141n
+d008.s012.t002	pressekonferenz n	conferenza_stampa	bn:00057552n bn:03650498n
+d008.s012.t004	entdeckung n	MONOSEMOUS	bn:00027529n
+d008.s012.t006	internet n	internet	bn:00024712n
+d008.s012.t007	bericht n	relazione	bn:00067181n bn:00067182n
+d008.s012.t008	entdeckung n	MONOSEMOUS	bn:00027529n
+d008.s012.t009	leben n	vita	bn:00051054n bn:00051053n bn:00051052n bn:00051048n bn:00002761n bn:00010534n bn:00051047n bn:00051046n bn:00051045n bn:00051049n bn:14889509n bn:00051050n
+d008.s014.t001	entdeckung n	MONOSEMOUS	bn:00027529n
+d008.s014.t005	element n	ambiente	bn:00021396n
+d008.s014.t007	gang n	NONE
+d008.s014.t008	meinung n	NONE
+d008.s014.t009	professor n	professore	bn:00064601n
+d008.s014.t010	vereinigtes_königreich n	MONOSEMOUS	bn:00013173n
+d008.s016.t004	element n	elemento	bn:00021396n bn:00054282n bn:00727025n bn:21706302n bn:00018105n bn:00030300n bn:00021394n
+d008.s017.t001	entdeckung n	MONOSEMOUS	bn:00027529n
+d008.s018.t003	nasa n	nasa	bn:01285086n bn:00056879n
+d008.s019.t001	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s019.t002	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s019.t003	mikrobe n	microbo	bn:00054731n bn:00013701n
+d008.s019.t004	element n	NONE
+d008.s020.t001	giftigkeit n	MONOSEMOUS	bn:00077790n
+d008.s020.t002	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s020.t003	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s021.t002	element n	elemento	bn:00021396n bn:00054282n bn:00727025n bn:21706302n bn:00018105n bn:00030300n bn:00021394n
+d008.s022.t002	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s022.t003	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s023.t001	forscher n	ricercatore	bn:00047356n bn:16378530n
+d008.s023.t002	bakterium n	MONOSEMOUS	bn:00007854n
+d008.s025.t001	mikrobe n	microbo	bn:00054731n bn:00013701n
+d008.s025.t002	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s025.t003	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s025.t005	erde n	terra	bn:00045153n bn:00029429n bn:03174468n bn:00029427n bn:00029425n bn:15295954n bn:00041883n bn:00029424n bn:03817654n bn:00027386n bn:00028934n bn:01340315n bn:02353516n bn:08339900n bn:01408141n
+d008.s025.t006	planet n	NONE
+d008.s025.t007	mond n	luna	bn:00055813n bn:00069344n bn:05221215n bn:00055811n bn:00371828n bn:00055809n bn:00063119n bn:00069316n bn:00052325n bn:00075172n
+d008.s025.t008	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s026.t002	mikrobiologie n	MONOSEMOUS	bn:00054734n
+d008.s026.t004	idee n	idea	bn:00045800n
+d008.s026.t005	phosphor n	fosforo	bn:00006845n bn:00062054n
+d008.s026.t006	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s028.t001	arsen n	arsenico	bn:00005917n bn:00005920n
+d008.s029.t003	leben n	vita	bn:00051054n bn:00051053n bn:00051052n bn:00051048n bn:00002761n bn:00010534n bn:00051047n bn:00051046n bn:00051045n bn:00051049n bn:14889509n bn:00051050n
+d008.s029.t004	erdzeitalter n	NONE
+d008.s030.t001	forschungsarbeit n	MONOSEMOUS	bn:00067280n
+d008.s030.t002	nasa n	nasa	bn:01285086n bn:00056879n
+d009.s002.t001	demokratiebewegung n	MONOSEMOUS	bn:00021207n
+d009.s002.t002	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s002.t004	unternehmen n	NONE
+d009.s003.t001	kriminalität n	criminalità	bn:00023827n bn:16708399n
+d009.s003.t002	problem n	preoccupazione
+d009.s003.t003	arbeitslosigkeit n	MONOSEMOUS	bn:00079045n
+d009.s004.t002	region n	regione	bn:14326780n bn:00066884n bn:00005515n bn:00060767n
+d009.s004.t004	brasilien n	brasile	bn:00012786n
+d009.s004.t005	vereinigte_staaten n	MONOSEMOUS	bn:00003341n
+d009.s005.t002	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s006.t002	region n	regione	bn:14326780n bn:00066884n bn:00005515n bn:00060767n
+d009.s007.t001	faktum n	correlare
+d009.s007.t003	september n	settembre	bn:01763759n bn:17319913n bn:00070537n
+d009.s007.t004	oktober n	ottobre	bn:00058593n bn:02664192n
+d009.s007.t005	auge n	NONE
+d009.s008.t001	stimmung n	abbastanza
+d009.s008.t002	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s009.t002	demokratie n	democrazia	bn:00026146n bn:00021207n
+d009.s009.t003	institution n	istituzione	bn:00046954n
+d009.s010.t001	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s010.t003	tabelle n	tabella	bn:00075812n bn:00941661n
+d009.s011.t001	peru n	perù	bn:00061757n
+d009.s011.t002	wirtschaft n	economico	bn:00029678n
+d009.s011.t003	% n	%	bn:00061135n
+d009.s011.t005	% n	%	bn:00061135n
+d009.s011.t006	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s011.t007	% n	%	bn:00061135n
+d009.s011.t008	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s012.t001	mexiko n	messico	bn:00054693n bn:01034524n
+d009.s012.t002	wirtschaft n	economia	bn:00029678n bn:00029676n bn:00029683n bn:01186837n
+d009.s012.t003	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s013.t001	hälfte n	MONOSEMOUS	bn:00042601n
+d009.s013.t002	mexiko n	messico	bn:00054693n bn:01034524n
+d009.s013.t003	brasilien n	brasile	bn:00012786n
+d009.s013.t004	land n	NONE
+d009.s013.t005	region n	regione	bn:14326780n bn:00066884n bn:00005515n bn:00060767n
+d009.s013.t008	diagramm n	vedere
+d009.s014.t001	% n	%	bn:00061135n
+d009.s014.t002	praxis n	pratica	bn:00063989n bn:00061054n bn:00028736n
+d009.s014.t003	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s015.t001	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s015.t002	% n	%	bn:00061135n
+d009.s015.t003	jahr n	NONE
+d009.s015.t004	diagramm n	grafico	bn:00017904n
+d009.s016.t001	% n	%	bn:00061135n
+d009.s016.t002	kongress n	congresso	bn:00022333n bn:00021846n bn:00021844n bn:00021845n
+d009.s016.t003	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s016.t004	% n	%	bn:00061135n
+d009.s016.t005	regierung n	governo	bn:00001426n bn:00007299n
+d009.s017.t001	wert n	NONE
+d009.s017.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s017.t004	% n	%	bn:00061135n
+d009.s017.t005	% n	%	bn:00061135n
+d009.s018.t001	jahrzehnt n	MONOSEMOUS	bn:00025646n
+d009.s018.t002	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s018.t004	demokratie n	democrazia	bn:00026146n bn:00021207n
+d009.s019.t001	weltwirtschaftskrise n	MONOSEMOUS	bn:00026406n
+d009.s019.t002	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s019.t003	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s021.t001	bericht n	NONE
+d009.s021.t002	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s021.t003	woche n	settimana	bn:00043484n bn:00014711n
+d009.s021.t005	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s021.t006	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s021.t007	% n	percentuale	bn:00061135n
+d009.s022.t001	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s022.t002	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s022.t003	diagramm n	vedere
+d009.s023.t001	brasilien n	brasile	bn:00012786n
+d009.s023.t002	wirtschaft n	economico	bn:00029678n
+d009.s023.t003	beliebtheit n	MONOSEMOUS	bn:00063592n
+d009.s023.t004	präsident n	presidente	bn:00064233n bn:00017517n bn:01835121n bn:00064234n bn:04707974n
+d009.s024.t001	mexiko n	messico	bn:00054693n bn:01034524n
+d009.s024.t002	mittelamerika n	scarso
+d009.s024.t003	rezession n	recessione	bn:00066516n
+d009.s025.t001	lateinamerika n	MONOSEMOUS	bn:00050165n
+d009.s025.t002	kriminalität n	NONE
+d009.s025.t003	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s025.t004	problem n	problema	bn:00064526n bn:00064527n bn:00048242n
+d009.s025.t005	arbeitslosigkeit n	MONOSEMOUS	bn:00079045n
+d009.s025.t006	diagramm n	vedere
+d009.s026.t001	% n	%	bn:00061135n
+d009.s026.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s026.t004	verbrechen n	reato	bn:00023807n
+d009.s027.t001	% n	%	bn:00061135n
+d009.s027.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s027.t003	wert n	NONE
+d009.s028.t001	wirtschaftsleistung n	MONOSEMOUS	bn:00059788n
+d009.s028.t003	marktwirtschaft n	MONOSEMOUS	bn:00036346n
+d009.s028.t004	% n	%	bn:00061135n
+d009.s028.t005	privatwirtschaft n	MONOSEMOUS	bn:00014137n
+d009.s028.t007	jahr n	NONE
+d009.s028.t008	% n	%	bn:00061135n
+d009.s028.t009	diagramm n	grafico	bn:00017904n
+d009.s029.t001	% n	%	bn:00061135n
+d009.s029.t002	marktwirtschaft n	MONOSEMOUS	bn:00036346n
+d009.s029.t003	land n	paese_sviluppato	bn:03659145n
+d009.s029.t005	% n	%	bn:00061135n
+d009.s029.t006	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s030.t001	% n	%	bn:00061135n
+d009.s030.t002	venezuela n	venezuela	bn:10172336n bn:03664437n bn:00067239n
+d009.s030.t003	ansicht n	il
+d009.s030.t004	% n	%	bn:00061135n
+d009.s030.t005	privatwirtschaft n	MONOSEMOUS	bn:00014137n
+d009.s030.t006	präsident n	presidente	bn:00064233n bn:00017517n bn:01835121n bn:00064234n bn:04707974n
+d009.s030.t008	privatunternehmen n	azienda_privata	bn:00019924n
+d009.s031.t001	brasilien n	brasile	bn:00012786n
+d009.s031.t002	% n	NONE
+d009.s031.t003	% n	%	bn:00061135n
+d009.s031.t004	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s031.t006	region n	regione	bn:14326780n bn:00066884n bn:00005515n bn:00060767n
+d009.s031.t007	vereinigte_staaten n	MONOSEMOUS	bn:00003341n
+d009.s031.t008	% n	%	bn:00061135n
+d009.s031.t009	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s031.t010	venezuela n	venezuela	bn:10172336n bn:03664437n bn:00067239n
+d009.s031.t011	% n	%	bn:00061135n
+d009.s031.t012	% n	%	bn:00061135n
+d009.s031.t013	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d009.s032.t001	mexiko n	messico	bn:00054693n bn:01034524n
+d009.s032.t002	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d009.s032.t003	mittelamerika n	più
+d009.s032.t004	usa n	stati_uniti	bn:00003341n
+d009.s032.t005	land n	NONE
+d009.s032.t006	rolle n	parte	bn:00036823n bn:00017749n
+d009.s032.t007	dominikanische_republik n	MONOSEMOUS	bn:00028188n
+d009.s032.t008	nicaragua n	nicaragua	bn:00057614n
+d009.s032.t009	venezuela n	venezuela	bn:10172336n bn:03664437n bn:00067239n
+d010.s001.t002	gericht n	corte	bn:00023301n bn:00023308n
+d010.s001.t003	fall n	causa	bn:00016403n
+d010.s002.t001	tag n	giorno	bn:00025419n bn:00000086n bn:00025422n bn:00025459n bn:00025417n bn:00025418n
+d010.s002.t003	tür n	porta	bn:00028247n bn:00034158n bn:00028248n
+d010.s002.t004	frage n	questione	bn:00030951n bn:00043267n
+d010.s002.t006	präsident n	presidente	bn:00064233n bn:00017517n bn:01835121n bn:00064234n bn:04707974n
+d010.s002.t008	richter n	giudice	bn:00207779n bn:00048488n
+d010.s002.t011	dinner n	cena	bn:00075315n bn:00027206n
+d010.s002.t013	fall n	causa	bn:00016403n
+d010.s002.t014	gericht n	corte_suprema
+d010.s003.t002	donnerstag n	MONOSEMOUS	bn:00076744n
+d010.s003.t003	richter n	giudice	bn:00207779n bn:00048488n
+d010.s003.t004	besprechung n	riunire
+d010.s003.t005	petition n	MONOSEMOUS	bn:00061826n
+d010.s004.t001	fall n	causa	bn:00016403n
+d010.s004.t002	klage n	causa	bn:00001134n bn:00016403n
+d010.s004.t003	staat n	stato	bn:00074010n bn:00023236n bn:00023235n bn:00964536n bn:03215983n bn:00064914n
+d010.s004.t004	reform n	NONE
+d010.s004.t006	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d010.s004.t007	kongress n	congresso	bn:00022333n bn:00021846n bn:00021844n bn:00021845n
+d010.s004.t008	gesetz n	legge	bn:00050250n bn:00048655n bn:00050588n bn:00050249n bn:03684971n
+d010.s004.t009	aktivist n	attivista	bn:00001171n bn:00001170n
+d010.s004.t010	usa n	NONE
+d010.s005.t001	richter n	giudice	bn:00207779n bn:00048488n
+d010.s006.t003	märz n	marzo	bn:00053318n
+d010.s006.t006	gerichtsentscheidung n	NONE
+d010.s006.t007	gang n	NONE
+d010.s007.t002	gericht n	giudice
+d010.s007.t003	gesetz n	legge	bn:00050250n bn:00048655n bn:00050588n bn:00050249n bn:03684971n
+d010.s007.t005	generalstaatsanwalt n	procuratore_generale	bn:00007054n bn:04160856n
+d010.s007.t006	regierung n	NONE
+d010.s007.t007	george_w._bush n	MONOSEMOUS	bn:00014098n
+d010.s008.t002	dutzend n	MONOSEMOUS	bn:00000020n
+d010.s008.t003	unternehmen n	NONE
+d010.s008.t004	dinner n	cena	bn:00075315n bn:00027206n
+d010.s008.t007	verteidigung n	NONE
+d010.s009.t001	unternehmen n	business	bn:00014137n bn:00014142n
+d010.s009.t002	dinner n	cena	bn:00075315n bn:00027206n
+d010.s009.t004	gesetz n	legge	bn:00050250n bn:00048655n bn:00050588n bn:00050249n bn:03684971n
+d010.s010.t001	sponsor n	sponsor	bn:00061047n bn:10975613n bn:02573411n
+d010.s011.t001	dinner n	cena	bn:00075315n bn:00027206n
+d010.s011.t002	stunde n	ora	bn:00044982n bn:00000127n
+d010.s011.t003	gericht n	giudice
+d010.s011.t004	fall n	causa	bn:00016403n
+d010.s011.t005	hotel n	albergo	bn:00044967n
+d010.s012.t004	senat n	senatore	bn:00070461n bn:00070459n
+d010.s013.t002	dinner n	cena	bn:00075315n bn:00027206n
+d010.s014.t001	richter n	giudice	bn:00207779n bn:00048488n
+d010.s014.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d010.s016.t001	verhaltenskodex n	MONOSEMOUS	bn:00020356n
+d010.s017.t002	kodex n	codice	bn:00020361n bn:00020352n
+d010.s017.t003	richter n	giudice	bn:00207779n bn:00048488n
+d010.s017.t004	benefizveranstaltung n	promosso
+d010.s017.t005	gesetz n	NONE
+d010.s017.t006	organisation n	organizzazione	bn:00059480n bn:00059482n bn:00001423n bn:00005863n
+d010.s017.t007	richter n	giudice	bn:00207779n bn:00048488n
+d010.s017.t008	sprecher n	NONE
+d010.s017.t010	programm n	programma	bn:01245565n bn:00021497n bn:00062759n bn:00064647n bn:00013235n bn:00021492n bn:00069568n bn:00069579n
+d010.s018.t002	fall n	causa	bn:00016403n
+d010.s018.t005	unternehmen n	società	bn:00021287n bn:00021286n bn:00014137n bn:00073910n bn:01090673n bn:00022811n bn:00014160n
+d010.s019.t001	moral n	etica	bn:00031709n
+d010.s019.t003	kodex n	codice	bn:00020361n bn:00020352n
+d010.s019.t004	klage n	causa	bn:00001134n bn:00016403n
+d010.s019.t005	richter n	giudice	bn:00207779n bn:00048488n
+d010.s019.t006	lüge n	NONE
+d010.s019.t007	gericht n	corte_suprema
+d010.s019.t010	präsident n	presidente	bn:00064233n bn:00017517n bn:01835121n bn:00064234n bn:04707974n
+d010.s019.t012	usa n	NONE
+d010.s020.t001	richter n	giudice	bn:00207779n bn:00048488n
+d010.s020.t002	rechtsanwalt n	avvocato	bn:00007051n bn:00008722n bn:01485021n
+d010.s020.t004	gericht n	corte_suprema
+d010.s021.t004	anspruch n	pretesa	bn:00019405n bn:00019403n bn:00019404n
+d010.s021.t005	unparteilichkeit n	MONOSEMOUS	bn:00046077n
+d010.s022.t004	tagesordnung n	del
+d010.s023.t001	ehefrau n	NONE
+d010.s024.t001	konservative n	MONOSEMOUS	bn:00021974n
+d010.s024.t002	richterin n	MONOSEMOUS	bn:00048488n
+d010.s024.t004	problem n	problema	bn:00064526n bn:00064527n bn:00048242n
+d010.s025.t002	gericht n	tribunale	bn:00023301n bn:00023308n
+d010.s026.t002	anhörung n	NONE
+d010.s026.t003	fall n	causa	bn:00016403n
+d010.s026.t004	verteidigung n	NONE
+d010.s026.t005	gesetz n	legge	bn:00050250n bn:00048655n bn:00050588n bn:00050249n bn:03684971n
+d011.s002.t001	spanien n	spagna	bn:00031605n bn:03187006n
+d011.s002.t002	spieler n	giocatore	bn:01060449n bn:00037167n bn:00060799n bn:00001176n bn:00037168n
+d011.s002.t004	buckel n	NONE
+d011.s003.t002	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d011.s004.t001	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d011.s004.t002	freundschaftsspiel n	MONOSEMOUS	bn:00032227n
+d011.s004.t003	uhr n	NONE
+d011.s004.t005	san_josé n	NONE
+d011.s004.t006	spieler n	giocatore	bn:01060449n bn:00037167n bn:00060799n bn:00001176n bn:00037168n
+d011.s004.t007	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d011.s006.t002	freitag n	venerdì	bn:00036512n
+d011.s006.t004	panama n	panama	bn:00397952n bn:00493492n bn:03840997n bn:03161332n bn:00229734n bn:03408818n bn:00060340n
+d011.s007.t001	spieler n	NONE
+d011.s007.t002	club n	club	bn:09056131n bn:00020039n bn:00899174n
+d011.s007.t004	england n	NONE
+d011.s007.t005	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d011.s007.t007	teilnahme n	NONE
+d011.s007.t008	heimspiel n	NONE
+d011.s008.t003	fußballweltmeisterschaft n	MONOSEMOUS	bn:00081625n
+d011.s010.t002	register n	NONE
+d011.s010.t003	torwart n	portiere	bn:00040851n bn:01978134n
+d011.s010.t005	samstag n	MONOSEMOUS	bn:00068696n
+d011.s010.t006	england n	inghilterra	bn:00030861n
+d011.s010.t008	london n	londra	bn:00013179n
+d011.s010.t009	torwart n	portiere	bn:00040851n bn:01978134n
+d011.s011.t001	rekord n	partita
+d011.s012.t002	spieler n	giocatore	bn:01060449n bn:00037167n bn:00060799n bn:00001176n bn:00037168n
+d011.s012.t003	fußballklub n	MONOSEMOUS	bn:15754286n
+d011.s012.t004	barcelona n	barcellona	bn:17292847n bn:00008553n
+d011.s013.t001	woche n	settimana	bn:00043484n bn:00014711n
+d011.s013.t005	mittelstürmer n	MONOSEMOUS	bn:00036014n
+d011.s014.t002	hundert n	NONE
+d011.s016.t005	stürmer n	MONOSEMOUS	bn:00036014n
+d011.s019.t002	team n	NONE
+d011.s022.t003	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d011.s023.t001	torhüter n	NONE
+d011.s024.t001	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d012.s001.t001	immigration n	immigrazione	bn:00046021n
+d012.s001.t003	wirtschaft n	economia	bn:00029678n bn:00029676n bn:00029683n bn:01186837n
+d012.s002.t002	zahl n	numero	bn:00058290n bn:00058285n bn:00058286n bn:00034394n bn:00058287n
+d012.s002.t003	politik n	politica	bn:00063351n bn:00063330n bn:21705859n bn:00063329n
+d012.s002.t004	politik n	politica	bn:00063351n bn:00063330n bn:21705859n bn:00063329n
+d012.s002.t006	land n	nazione	bn:00023235n bn:00023236n
+d012.s002.t007	menschenrecht n	MONOSEMOUS	bn:00045163n
+d012.s002.t008	frankreich n	francia	bn:00036202n bn:02758497n
+d012.s003.t001	student n	studente	bn:00079004n bn:00029806n bn:00012135n
+d012.s003.t002	belästigung n	abuso
+d012.s003.t004	wochenschau n	MONOSEMOUS	bn:00057574n
+d012.s003.t005	innenminister n	ministro_degli_interni	bn:02889566n bn:00044521n
+d012.s003.t007	mai n	maggio	bn:00053941n
+d012.s003.t008	frankreich n	francia	bn:00036202n bn:02758497n
+d012.s003.t009	maurer n	muratore	bn:00013057n bn:00053648n
+d012.s003.t010	kellner n	talento
+d012.s004.t001	politik n	NONE
+d012.s005.t001	thema n	tema	bn:00074900n bn:00045803n bn:00056025n bn:13845352n bn:00798964n
+d012.s005.t003	rechte n	destra	bn:00067850n bn:00067808n bn:00067818n
+d012.s005.t004	linke n	sinistra	bn:00050538n bn:00020635n bn:00050523n bn:00050522n bn:00050521n
+d012.s006.t004	arbeitslose n	disoccupato	bn:00079044n bn:00079043n bn:00079045n
+d012.s006.t005	million n	milione	bn:00000013n
+d012.s006.t007	problem n	problema	bn:00064526n bn:00064527n bn:00048242n
+d012.s006.t008	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d012.s006.t011	frankreich n	francia	bn:00036202n bn:02758497n
+d012.s006.t012	armut n	miseria	bn:00046487n bn:00046157n
+d012.s006.t013	welt n	mondo	bn:00045153n bn:00028141n bn:00066418n bn:00029428n bn:00081622n bn:00022991n bn:00029424n bn:00063584n
+d012.s008.t004	horde n	NONE
+d012.s008.t005	klempner n	idraulico	bn:00062576n
+d012.s008.t006	jahr n	NONE
+d012.s009.t002	einwanderer n	immigrato	bn:00046019n bn:12647179n bn:00046021n
+d012.s009.t004	wirtschaft n	economia	bn:00029678n bn:00029676n bn:00029683n bn:01186837n
+d012.s009.t005	gesellschaft n	società	bn:00072566n bn:00019924n bn:00021286n bn:00014137n bn:01090673n bn:00020039n bn:17880853n bn:00021284n
+d012.s010.t003	immigrant n	immigrato	bn:15930030n bn:00046019n bn:00046021n
+d012.s011.t002	programm n	programma	bn:01245565n bn:00021497n bn:00062759n bn:00064647n bn:00013235n bn:00021492n bn:00069568n bn:00069579n
+d012.s011.t003	banalität n	banalità	bn:00008267n bn:00073863n
+d012.s012.t001	vorstellung n	idea
+d012.s012.t002	immigration n	immigrazione	bn:00046021n
+d012.s012.t004	problem n	problema	bn:00064526n bn:00064527n bn:00048242n
+d012.s012.t005	wahl n	elettorale	bn:00030113n
+d012.s013.t001	wirtschaftsexperte n	MONOSEMOUS	bn:00029667n
+d012.s013.t002	werk n	NONE
+d012.s013.t003	erkenntnis n	conoscenza	bn:00020452n bn:00007498n
+d012.s013.t004	immigration n	immigrazione	bn:00046021n
+d012.s013.t005	mai n	maggio	bn:00053941n
+d012.s013.t009	wirtschaftswachstum n	MONOSEMOUS	bn:00029670n
+d012.s013.t010	lohn n	salario	bn:00029416n
+d012.s014.t001	einwanderung n	MONOSEMOUS	bn:00046021n
+d012.s015.t001	befürchtung n	MONOSEMOUS	bn:00033854n
+d012.s015.t004	vorstellung n	NONE
+d012.s015.t007	lohn n	salario	bn:00029416n
+d012.s016.t001	erfahrung n	esperienza	bn:00032307n bn:00032308n bn:00032306n
+d012.s016.t002	immigrant n	immigrato	bn:15930030n bn:00046019n bn:00046021n
+d012.s016.t004	beruf n	mestiere	bn:00030625n bn:00030616n bn:00064607n bn:00014138n
+d012.s017.t001	immigrant n	immigrato	bn:15930030n bn:00046019n bn:00046021n
+d012.s017.t003	immigrant n	NONE
+d012.s017.t004	ausbildung n	formazione	bn:00026980n bn:00041853n
+d012.s019.t001	chirurg n	chirurgo	bn:00059129n bn:00059122n
+d012.s019.t002	schwierigkeit n	NONE
+d012.s019.t003	land n	paese	bn:00023237n bn:00023235n bn:00023236n
+d012.s019.t004	mangel n	carenza	bn:00025913n bn:02562105n bn:00025916n bn:00025581n
+d012.s019.t005	anästhesist n	anestesista	bn:00003755n
+d012.s019.t007	migranten n	NONE
+d012.s019.t008	lohn n	retribuzione	bn:00029416n
+d012.s020.t003	% n	%	bn:00061135n
+d012.s020.t006	% n	%	bn:00061135n
+d012.s020.t007	% n	NONE
+d012.s021.t002	immigrant n	immigrato	bn:15930030n bn:00046019n bn:00046021n
+d012.s021.t003	vielfalt n	diversità	bn:00368857n bn:00027862n
+d012.s021.t004	wirtschaftswachstum n	MONOSEMOUS	bn:00029670n
+d012.s021.t005	anteil n	NONE
+d012.s021.t006	immigrant n	immigrato	bn:15930030n bn:00046019n bn:00046021n
+d012.s021.t007	nobelpreisträger n	MONOSEMOUS	bn:00057831n
+d012.s021.t008	google n	google	bn:00212508n bn:00041092n
+d012.s021.t012	yahoo n	yahoo	bn:00081801n bn:00081800n
+d012.s021.t013	einwanderer n	immigrato	bn:00046019n bn:12647179n bn:00046021n
+d012.s022.t001	migranten n	migrare
+d012.s022.t003	land n	NONE
+d012.s022.t006	% n	%	bn:00061135n
+d012.s023.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d012.s023.t003	deutschland n	germania	bn:00026684n bn:00044329n
+d012.s023.t004	person n	NONE
+d012.s023.t006	durchschnitt n	media	bn:00005677n bn:00007449n
+d012.s023.t009	euro n	euro	bn:00031888n bn:04586600n
+d012.s024.t002	mandat n	mandato	bn:00007292n bn:00368897n bn:00053151n bn:00368883n
+d012.s024.t004	zahn n	teeth
+d012.s025.t001	zahn n	NONE
+d012.s025.t002	immigrant n	immigrato	bn:15930030n bn:00046019n bn:00046021n
+d013.s001.t002	usa n	stati_uniti	bn:00003341n
+d013.s002.t003	usa n	stati_uniti	bn:00003341n
+d013.s003.t001	problem n	problema	bn:00064526n bn:00064527n bn:00048242n
+d013.s003.t004	usa n	stati_uniti	bn:00003341n
+d013.s003.t006	million n	milione	bn:00000013n
+d013.s003.t007	dollar n	dollaro	bn:00028115n bn:00028114n bn:00013578n bn:00079129n
+d013.s003.t008	million n	milione	bn:00000013n
+d013.s003.t009	euro n	euro	bn:00031888n bn:04586600n
+d013.s003.t011	genossenschaftsbank n	banca_cooperativa	bn:03323525n
+d013.s005.t003	genossenschaftsbank n	NONE
+d013.s005.t005	finanzprodukt n	usare
+d013.s005.t006	risiko n	NONE
+d013.s006.t001	papier n	NONE
+d013.s006.t003	wert n	valore	bn:00079511n bn:00029680n bn:00079509n bn:00079508n
+d013.s006.t004	bank n	NONE
+d013.s007.t001	thema n	NONE
+d013.s007.t002	partei n	parte	bn:00060834n bn:00060837n
+d013.s007.t003	gericht n	tribunale	bn:00023301n bn:00023308n
+d013.s007.t004	new_york n	new_york	bn:03579775n bn:02807096n bn:01773732n bn:02829862n bn:02530635n bn:15051322n bn:00030605n bn:03726865n bn:00041611n
+d013.s008.t001	bank n	banca	bn:15346085n bn:00008364n bn:00008367n
+d013.s008.t002	vergleich n	ammettere
+d013.s008.t003	schuld n	NONE
+d013.s009.t002	zahlung n	NONE
+d013.s009.t003	million n	milione	bn:00000013n
+d013.s009.t004	dollar n	dollaro	bn:00028115n bn:00028114n bn:00013578n bn:00079129n
+d013.s013.t001	vergleich n	NONE
+d013.s014.t002	sommer n	estate	bn:16851255n bn:00075151n
+d013.s015.t001	mortgage_backed_securities n	MONOSEMOUS	bn:00055949n
+d013.s018.t001	september n	settembre	bn:01763759n bn:17319913n bn:00070537n
+d013.s019.t002	jahr n	anno	bn:00004379n bn:00004401n bn:00081857n bn:00001939n bn:00006662n bn:00078738n
+d013.s019.t003	bank n	banca	bn:15346085n bn:00008364n bn:00008367n
+d013.s019.t004	usa n	stati_uniti	bn:00003341n
+d013.s019.t005	wind n	vento	bn:08936963n bn:00002216n
+d013.s020.t001	investor n	MONOSEMOUS	bn:00047367n
+d013.s022.t002	fannie_mae n	fannie_mae	bn:00033638n
+d013.s022.t003	freddie_mac n	MONOSEMOUS	bn:00033911n
+d013.s022.t004	volumen n	NONE
+d013.s022.t006	dollar n	dollaro	bn:00028115n bn:00028114n bn:00013578n bn:00079129n
+d013.s023.t004	wert n	valore	bn:00079511n bn:00029680n bn:00079509n bn:00079508n
+d013.s023.t006	dollar n	dollaro	bn:00028115n bn:00028114n bn:00013578n bn:00079129n
+d013.s023.t007	jahr n	NONE

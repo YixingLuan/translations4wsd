@@ -1,0 +1,1013 @@
+d001.s001.t002	nations_unies n	MONOSEMOUS	bn:00078931n
+d001.s001.t004	plan n	plan	bn:00062759n bn:00005439n bn:00026536n bn:02538465n bn:00053303n bn:03479682n bn:00809795n bn:00069579n
+d001.s002.t002	climat n	NONE
+d001.s002.t006	vendredi n	freitag	bn:00036512n
+d001.s002.t009	document n	dokument	bn:00028017n bn:00028016n bn:00028015n bn:00025804n bn:00028018n
+d001.s002.t011	gaz_à_effet_de_serre n	MONOSEMOUS	bn:00041712n
+d001.s002.t013	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d001.s002.t014	nation n	industrienation
+d001.s002.t016	temps n	NONE
+d001.s003.t001	texte n	text	bn:00076732n bn:00069638n
+d001.s003.t003	accord n	abkommen	bn:00008568n bn:00000728n bn:15519080n
+d001.s003.t004	gaz_à_effet_de_serre n	MONOSEMOUS	bn:00041712n
+d001.s003.t005	obstacle n	hindernis	bn:00045274n bn:00022742n bn:00058512n bn:00058511n
+d001.s004.t001	négociation n	d
+d001.s004.t003	leader n	NONE
+d001.s004.t004	monde n	welt	bn:00045153n bn:00028141n bn:00066418n bn:00029428n bn:00081622n bn:00022991n bn:00029424n bn:00063584n
+d001.s004.t005	semaine n	woche	bn:00043484n bn:00014711n
+d001.s005.t001	groupe_de_travail n	eigens
+d001.s005.t002	texte n	text	bn:00076732n bn:00069638n
+d001.s005.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s005.t006	terme n	NONE
+d001.s006.t006	économie n	NONE
+d001.s006.t007	économie n	NONE
+d001.s006.t010	carbone n	NONE
+d001.s006.t013	température n	NONE
+d001.s007.t003	Washington n	washington	bn:00278956n bn:00402608n bn:14813232n bn:00288164n bn:00245584n bn:00581525n bn:03857084n bn:00577194n bn:00591231n bn:00596393n bn:00188685n bn:00225540n bn:03716209n bn:00575367n bn:00270193n bn:01194817n bn:03408949n bn:00434520n bn:00376801n bn:00413635n bn:00539878n bn:00243121n bn:00292906n bn:00300328n bn:00453437n bn:00494337n bn:00003365n bn:02004838n bn:00207014n bn:00032035n bn:03458153n
+d001.s008.t001	page n	NONE
+d001.s008.t002	document n	dokument	bn:00028017n bn:00028016n bn:00028015n bn:00025804n bn:00028018n
+d001.s008.t003	texte n	dokument
+d001.s008.t004	négociation n	haben
+d001.s008.t005	page n	seite	bn:00071432n bn:00071436n bn:00060158n bn:00032604n bn:00250160n bn:00071433n bn:00060163n bn:00071431n
+d001.s008.t007	secrétaire n	NONE
+d001.s008.t008	changement_climatique n	MONOSEMOUS	bn:00019782n
+d001.s009.t002	accord n	abkommen	bn:00008568n bn:00000728n bn:15519080n
+d001.s009.t007	pays n	NONE
+d001.s009.t010	période n	zeitraum	bn:00061605n bn:00031261n bn:00207123n
+d001.s010.t001	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s011.t001	Union_Européenne n	europäische_gemeinschaft
+d001.s011.t002	négociation n	gespräch
+d001.s011.t003	vendredi n	freitag	bn:00036512n
+d001.s011.t004	$ n	us-dollar	bn:00079129n
+d001.s011.t006	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d001.s011.t007	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d001.s011.t008	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s011.t010	changement_climatique n	MONOSEMOUS	bn:00019782n
+d001.s011.t011	inondation n	überschwemmung	bn:00035296n bn:00002954n
+d001.s011.t012	sécheresse n	dürre	bn:00749459n bn:00028863n
+d001.s011.t013	déforestation n	entwaldung	bn:00025949n
+d001.s012.t001	vendredi n	freitag	bn:00036512n
+d001.s012.t003	négociation n	gespräch
+d001.s012.t004	semaine n	woche	bn:00043484n bn:00014711n
+d001.s013.t002	Etats-Unis n	d
+d001.s013.t003	négociation n	haben
+d001.s013.t006	gaz_à_effet_de_serre n	MONOSEMOUS	bn:00041712n
+d001.s013.t009	effort n	NONE
+d001.s013.t010	économie n	NONE
+d001.s014.t004	chine n	china	bn:13848280n bn:03444605n bn:14343737n bn:00016756n
+d001.s014.t005	administration_bush n	MONOSEMOUS	bn:00014103n
+d001.s014.t006	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d001.s015.t001	etats-unis n	vereinigte_staaten	bn:00003341n
+d001.s015.t002	accord n	abkommen	bn:00008568n bn:00000728n bn:15519080n
+d001.s015.t003	effort n	NONE
+d001.s015.t005	pays n	NONE
+d001.s015.t008	texte n	text	bn:00076732n bn:00069638n
+d001.s016.t003	affaires_étrangères n	NONE
+d001.s016.t006	semaine n	woche	bn:00043484n bn:00014711n
+d001.s016.t007	etats-unis n	vereinigte_staaten	bn:00003341n
+d001.s016.t008	chine n	china	bn:13848280n bn:03444605n bn:14343737n bn:00016756n
+d001.s017.t001	trajectoire n	MONOSEMOUS	bn:00035211n
+d001.s017.t002	puissance_mondiale n	MONOSEMOUS	bn:00041585n
+d001.s017.t006	tiers-monde n	MONOSEMOUS	bn:00076967n
+d001.s017.t007	monde n	NONE
+d001.s018.t001	bataille n	kampf	bn:00020858n bn:00009079n bn:00009078n bn:00005731n
+d001.s018.t002	sauvetage n	rettung	bn:00026061n
+d001.s018.t003	économie n	NONE
+d001.s018.t004	sauvetage n	rettung	bn:00026061n
+d001.s018.t005	planète n	planet	bn:00210862n bn:00052888n
+d001.s018.t006	chine n	china	bn:13848280n bn:03444605n bn:14343737n bn:00016756n
+d001.s018.t007	etats-unis n	vereinigte_staaten	bn:00003341n
+d001.s018.t008	obligation n	verpflichtung	bn:00029239n bn:00064699n bn:00058469n
+d001.s018.t009	nation n	land	bn:00023236n
+d001.s018.t011	douzaine n	dutzend	bn:00000020n
+d001.s018.t012	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s019.t001	délégué n	delegierte	bn:00026025n
+d001.s019.t002	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d001.s019.t003	puissance n	macht	bn:00058685n bn:00063940n bn:00041585n bn:00054902n
+d001.s019.t004	coût n	kosten	bn:00022995n bn:00022996n
+d001.s019.t006	gaz_à_effet_de_serre n	MONOSEMOUS	bn:00041712n
+d001.s019.t007	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s020.t002	hégémonie n	MONOSEMOUS	bn:00043539n
+d001.s020.t003	climat n	NONE
+d001.s020.t004	amérique_centrale n	tätig
+d001.s021.t001	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s021.t003	changement_climatique n	MONOSEMOUS	bn:00019782n
+d001.s021.t005	traité n	vertrag	bn:00000728n bn:00889947n
+d001.s021.t009	accord n	gut	bn:00058395n
+d001.s022.t004	traité n	früh
+d001.s022.t005	page n	24-seitigen
+d001.s022.t006	vendredi n	vorlegen
+d001.s022.t007	matin n	NONE
+d001.s023.t003	climat n	NONE
+d001.s023.t009	économie n	NONE
+d001.s023.t010	chine n	china	bn:13848280n bn:03444605n bn:14343737n bn:00016756n
+d001.s024.t001	débat n	NONE
+d001.s024.t003	délégué n	delegierte	bn:00026025n
+d001.s024.t005	problème n	frage
+d001.s024.t007	chef_de_gouvernement n	regierungsführer
+d001.s025.t004	avion n	flugzeug	bn:00002275n bn:00016196n bn:00001697n bn:16750414n
+d001.s025.t006	réunion n	NONE
+d001.s025.t009	information n	NONE
+d001.s025.t011	semaine n	woche	bn:00043484n bn:00014711n
+d001.s026.t003	personne n	person	bn:00061715n bn:00046516n
+d001.s026.t004	Palais_des_congrès n	MONOSEMOUS	bn:00032226n
+d001.s026.t005	jour n	täglich	bn:00025018n
+d001.s026.t006	joueur n	d
+d001.s026.t007	guitare n	NONE
+d001.s026.t009	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d001.s026.t011	papier n	NONE
+d001.s027.t002	ministre n	minister	bn:00019727n bn:00001604n bn:00055178n bn:00027288n bn:00014450n bn:00031083n bn:00024459n bn:00041200n
+d001.s027.t003	mercredi n	MONOSEMOUS	bn:00054897n
+d001.s027.t004	chef_de_gouvernement n	regierungsführer
+d001.s028.t001	cour n	oberliga
+d001.s028.t003	vice-président n	vizepräsident	bn:00079435n
+d002.s001.t001	victoire n	sieg	bn:00081253n bn:00078365n
+d002.s002.t002	triomphe n	triumph	bn:00078365n bn:00078366n bn:00684027n bn:00768991n
+d002.s002.t004	terrain n	platz
+d002.s002.t006	équipe n	NONE
+d002.s002.t013	point n	NONE
+d002.s002.t014	équipe n	NONE
+d002.s003.t001	équipe n	NONE
+d002.s003.t003	dose n	dosis	bn:13808383n bn:00028320n
+d002.s003.t007	victoire n	sieg	bn:00081253n bn:00078365n
+d002.s004.t004	point n	NONE
+d002.s004.t005	victoire n	sieg	bn:00081253n bn:00078365n
+d002.s005.t001	match n	spiel	bn:00036522n
+d002.s006.t003	équipe n	NONE
+d002.s006.t005	terrain n	spielfeld	bn:00006752n
+d002.s006.t006	poignet n	handgelenk	bn:00548556n bn:00006143n
+d002.s008.t002	équipe n	NONE
+d002.s008.t006	applaudissement n	NONE
+d002.s008.t010	pause n	pause	bn:02870808n bn:00012899n bn:01246798n bn:00067374n bn:03498501n bn:00012901n bn:00081289n bn:01336047n bn:15408981n bn:17562516n
+d002.s009.t002	équipe n	NONE
+d002.s009.t003	point n	punkt	bn:00028329n bn:03173404n bn:00063223n bn:00063215n bn:00063219n bn:15591207n bn:00063214n bn:00063218n bn:00036777n bn:00047730n bn:00025966n bn:00027824n bn:00063213n bn:00026622n bn:00063217n
+d002.s009.t005	nuit n	NONE
+d002.s010.t001	match n	spiel	bn:00036522n
+d002.s010.t004	pause n	pause	bn:02870808n bn:00012899n bn:01246798n bn:00067374n bn:03498501n bn:00012901n bn:00081289n bn:01336047n bn:15408981n bn:17562516n
+d002.s010.t005	rien n	NONE
+d002.s010.t006	équipe n	NONE
+d002.s010.t007	terrain n	spielfeld	bn:00006752n
+d002.s010.t008	main n	hand	bn:00042761n bn:00025555n bn:16037717n bn:00042759n bn:00978341n bn:00042766n
+d002.s010.t009	match n	spiel	bn:00036522n
+d002.s011.t002	jaune n	gelbe
+d002.s013.t005	moment n	NONE
+d002.s013.t009	point n	NONE
+d002.s013.t011	compteur n	NONE
+d002.s013.t012	score n	NONE
+d002.s014.t001	équipe n	NONE
+d002.s014.t004	minute n	minute	bn:00055094n
+d002.s015.t001	équipe n	mannschaft	bn:00073699n
+d002.s015.t003	point n	punkt	bn:00028329n bn:03173404n bn:00063223n bn:00063215n bn:00063219n bn:15591207n bn:00063214n bn:00063218n bn:00036777n bn:00047730n bn:00025966n bn:00027824n bn:00063213n bn:00026622n bn:00063217n
+d002.s016.t003	israélien n	israeli	bn:00047683n
+d002.s016.t004	minute n	minute	bn:00055094n
+d002.s016.t006	victoire n	NONE
+d002.s016.t007	tel_aviv n	MONOSEMOUS	bn:00076369n
+d002.s016.t009	saison n	saison	bn:00070057n bn:00064200n bn:03176610n bn:00072547n bn:00161748n bn:00070056n bn:00076429n bn:15456311n
+d003.s001.t004	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d003.s002.t001	bourse_de_new_york n	MONOSEMOUS	bn:00010302n
+d003.s002.t003	vendredi n	freitag	bn:00036512n
+d003.s002.t004	marché n	markt	bn:00053461n bn:00053459n bn:00053458n
+d003.s002.t006	Etats-Unis n	d
+d003.s002.t008	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d003.s002.t009	dow_jones n	MONOSEMOUS	bn:00028458n
+d003.s002.t010	Nasdaq n	nasdaq	bn:01026172n bn:00056893n
+d003.s003.t001	chiffre n	zahl	bn:00027078n bn:00058287n bn:00034394n
+d003.s003.t003	dow_jones_industrial_average n	MONOSEMOUS	bn:00028458n
+d003.s003.t006	Nasdaq n	nasdaq	bn:01026172n bn:00056893n
+d003.s005.t001	marché n	markt	bn:00053461n bn:00053459n bn:00053458n
+d003.s006.t001	marge n	eng
+d003.s006.t006	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d003.s007.t002	publication n	veröffentlichung	bn:00065106n bn:00067023n bn:00047693n bn:00065108n
+d003.s007.t004	opinion n	NONE
+d003.s007.t005	marché n	NONE
+d003.s008.t001	vente n	verkauf	bn:00068915n bn:00068918n bn:18500772n bn:00053480n
+d003.s008.t002	détail n	einzelhandel	bn:00067417n
+d003.s008.t003	novembre n	november	bn:00058192n
+d003.s009.t001	confiance n	vertrauen	bn:03845702n bn:00067032n bn:03732876n bn:00032769n bn:00021742n bn:00006565n
+d003.s009.t002	consommateur n	verbraucher	bn:00032337n bn:00022095n
+d003.s009.t003	décembre n	dezember	bn:00025645n
+d003.s009.t005	estimation n	vorherig
+d003.s009.t006	indice n	NONE
+d003.s009.t007	université_du_michigan n	MONOSEMOUS	bn:00079156n
+d003.s010.t001	indice n	NONE
+d003.s010.t003	dollar n	NONE
+d003.s010.t006	euro n	euro	bn:00031888n bn:14313060n
+d003.s011.t001	valeur n	wert	bn:00079511n bn:00079509n bn:00079508n bn:00029680n bn:00058151n
+d003.s013.t003	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d003.s013.t004	mercredi n	MONOSEMOUS	bn:00054897n
+d003.s013.t005	soir n	NONE
+d003.s013.t006	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d004.s001.t001	ministère n	ölministerium
+d004.s001.t002	pétrole n	NONE
+d004.s001.t004	société n	NONE
+d004.s002.t001	inquiétude n	bedenken
+d004.s002.t004	gouvernement n	regierung	bn:00007299n bn:00001426n
+d004.s002.t005	société n	NONE
+d004.s002.t006	infrastructure n	infrastruktur	bn:00046727n bn:00008794n
+d004.s002.t008	enchère n	auktion	bn:00007085n
+d004.s002.t009	samedi n	samstag	bn:00068696n
+d004.s003.t002	pétrole n	NONE
+d004.s003.t004	compagnie n	NONE
+d004.s003.t005	Chine n	china	bn:13848280n bn:03444605n bn:14343737n bn:00016756n
+d004.s003.t006	Europe n	NONE
+d004.s003.t011	industrie_pétrolière n	ölgesellschaft	bn:00058745n
+d004.s003.t012	Irak n	MONOSEMOUS	bn:00002362n
+d004.s003.t014	année n	NONE
+d004.s003.t015	guerre n	krieg	bn:00080439n bn:00074023n
+d004.s004.t001	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s004.t002	participation n	zwei
+d004.s004.t004	enchère n	verbuchen
+d004.s005.t001	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s005.t002	enchère n	auktion	bn:00007085n
+d004.s005.t003	vendredi n	freitag	bn:00036512n
+d004.s006.t001	enchère n	haben
+d004.s007.t001	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s007.t002	contrat n	vertrag	bn:00021275n bn:02273261n bn:00022227n bn:00000728n bn:00000726n
+d004.s007.t004	enchère n	versteigert
+d004.s007.t005	juin n	juni	bn:00048592n
+d004.s008.t004	secteur_pétrolier n	öffnung
+d004.s008.t005	Irak n	MONOSEMOUS	bn:00002362n
+d004.s009.t001	Irak n	MONOSEMOUS	bn:00002362n
+d004.s009.t003	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d004.s009.t004	guerre n	krieg	bn:00080439n bn:00074023n
+d004.s009.t005	société n	us-unternehmen
+d004.s009.t006	société n	NONE
+d004.s009.t008	rédacteur n	herausgeber	bn:15417659n
+d004.s009.t011	information n	NONE
+d004.s009.t012	Internet n	NONE
+d004.s010.t003	Irak n	MONOSEMOUS	bn:00002362n
+d004.s011.t001	inquiétude n	NONE
+d004.s011.t002	sécurité n	NONE
+d004.s011.t003	bombardement n	bombardement	bn:00008679n
+d004.s011.t004	mardi n	dienstag	bn:00078546n
+d004.s011.t005	instabilité n	instabilität	bn:00045990n bn:00046933n
+d004.s011.t006	troupe n	NONE
+d004.s011.t007	société n	NONE
+d004.s011.t009	Irak n	MONOSEMOUS	bn:00002362n
+d004.s011.t011	pétrole n	NONE
+d004.s011.t012	monde n	welt	bn:00045153n bn:00028141n bn:00066418n bn:00029428n bn:00081622n bn:00022991n bn:00029424n bn:00063584n
+d004.s012.t001	société n	us-firma
+d004.s012.t004	société n	NONE
+d004.s012.t005	gouvernement n	NONE
+d004.s012.t006	coût n	NONE
+d004.s012.t007	main_d'oeuvre n	MONOSEMOUS	bn:00042833n
+d004.s012.t008	risque n	risiko	bn:00030747n bn:00025171n
+d004.s012.t010	actionnaire n	aktionär	bn:00070914n
+d004.s013.t002	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s013.t003	contrat n	vertrag	bn:00021275n bn:02273261n bn:00022227n bn:00000728n bn:00000726n
+d004.s014.t001	société n	us-unternehmen
+d004.s014.t003	pétrole n	NONE
+d004.s014.t005	main n	NONE
+d004.s015.t001	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s015.t002	actionnaire n	hauptakteur
+d004.s015.t003	contrat n	vertrag	bn:00021275n bn:02273261n bn:00022227n bn:00000728n bn:00000726n
+d004.s015.t004	week-end n	wochenende	bn:00080816n bn:00080813n
+d004.s016.t001	contrat n	vertrag	bn:00021275n bn:02273261n bn:00022227n bn:00000728n bn:00000726n
+d004.s016.t002	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s016.t003	participation n	zwei
+d004.s016.t004	contrat n	vertrag	bn:00021275n bn:02273261n bn:00022227n bn:00000728n bn:00000726n
+d004.s017.t001	chine n	china	bn:13848280n bn:03444605n bn:14343737n bn:00016756n
+d004.s017.t002	économie n	NONE
+d004.s017.t003	puissance n	große
+d004.s017.t004	porte-parole n	sprecher	bn:00047203n bn:00073526n
+d004.s017.t005	pétrole n	NONE
+d004.s018.t001	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s018.t004	Irak n	MONOSEMOUS	bn:00002362n
+d004.s019.t001	société n	unternehmen	bn:00021287n bn:00021286n bn:00014137n bn:01090673n bn:00073910n bn:00022811n bn:00014160n
+d004.s019.t002	enchère n	NONE
+d004.s019.t004	tarif n	gebühr	bn:00033939n
+d004.s019.t005	baril n	barrel	bn:00008694n
+d004.s019.t006	ministère n	ministerium	bn:03743591n bn:00055180n bn:00041197n
+d004.s019.t008	production n	NONE
+d004.s019.t010	champ n	feld	bn:00034266n bn:00915509n bn:00034265n bn:00034269n bn:00034267n bn:00017609n bn:03137422n bn:00007985n bn:00034274n bn:00006752n
+d005.s001.t001	banque n	us-bank
+d005.s001.t002	aide n	hilfe	bn:00002154n bn:00002156n bn:00002155n bn:00055177n bn:00006523n
+d005.s002.t001	banque n	NONE
+d005.s002.t002	crise n	streifen
+d005.s003.t002	mercredi n	MONOSEMOUS	bn:00054897n
+d005.s003.t004	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d005.s003.t006	aide n	hilfe	bn:00002154n bn:00002156n bn:00002155n bn:00055177n bn:00006523n
+d005.s003.t008	plan n	NONE
+d005.s003.t009	sauvetage n	NONE
+d005.s004.t001	chaine_de_télévision n	MONOSEMOUS	bn:00017686n
+d005.s004.t003	aide n	NONE
+d005.s005.t003	acceptation n	NONE
+d005.s005.t010	frais n	gebühr	bn:00033939n
+d005.s006.t003	capital n	über
+d005.s006.t004	vente n	wandelanleihe
+d005.s006.t005	titre n	NONE
+d005.s006.t006	investisseur n	investor	bn:00047367n
+d005.s006.t008	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d005.s006.t009	argent n	geld	bn:00055644n bn:00055645n
+d005.s007.t004	banque n	d
+d005.s008.t001	mercredi n	MONOSEMOUS	bn:00054897n
+d005.s008.t002	soir n	NONE
+d005.s008.t006	capital n	über
+d005.s008.t007	période n	zeit	bn:00077270n
+d005.s009.t003	banque_d'investissement n	MONOSEMOUS	bn:00047365n
+d005.s009.t005	tourmente n	merrill_lynch
+d005.s010.t001	argent n	geld	bn:00055644n bn:00055645n
+d005.s010.t002	marché n	verbindlichkeit
+d005.s010.t003	tutelle n	kapitalmarkt
+d005.s011.t001	banque n	us-bank
+d005.s011.t003	jeudi n	MONOSEMOUS	bn:00076744n
+d005.s011.t005	capital n	kapital	bn:00015497n bn:00015496n bn:00015406n
+d005.s011.t007	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d005.s011.t008	chaîne n	NONE
+d005.s012.t001	porte-parole n	NONE
+d005.s012.t002	information n	NONE
+d005.s013.t001	juin n	juni	bn:00048592n
+d005.s013.t002	banque n	NONE
+d006.s001.t001	appel n	NONE
+d006.s002.t001	demi-douzaine n	MONOSEMOUS	bn:13713147n
+d006.s003.t001	minute n	NONE
+d006.s003.t002	rapport n	bericht	bn:00067182n bn:00067181n
+d006.s003.t003	témoignage n	NONE
+d006.s004.t002	défense n	verteidigung	bn:00025878n bn:00050565n bn:00025871n bn:00032260n bn:00025872n bn:00025880n
+d006.s004.t003	message n	NONE
+d006.s004.t004	procès n	prozeß	bn:00078198n
+d006.s004.t006	viol n	vergewaltigung	bn:17300775n bn:00070782n bn:00006469n
+d006.s004.t007	enfant n	kind	bn:00018366n bn:00018346n bn:00007995n bn:00018345n
+d006.s004.t008	lit n	bett	bn:00009472n bn:00009474n bn:00009475n
+d006.s004.t009	maison n	haus	bn:00044994n bn:00029305n bn:00000356n bn:00045000n bn:02449284n
+d006.s005.t001	jeudi n	MONOSEMOUS	bn:00076744n
+d006.s005.t002	procès n	NONE
+d006.s005.t003	meurtre n	NONE
+d006.s005.t005	famille n	familie	bn:01684666n bn:00032894n bn:00032893n bn:00032892n bn:00032896n
+d006.s005.t006	Connecticut n	connecticut	bn:00021904n
+d006.s005.t008	juge n	NONE
+d006.s005.t009	peine_de_mort n	todesurteil	bn:00015656n
+d006.s005.t010	jury n	jury	bn:00048658n bn:00823148n
+d006.s006.t001	avocat n	anwalt	bn:00001604n bn:00007051n bn:00072715n bn:00001603n bn:00008722n
+d006.s006.t003	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d006.s006.t005	appel n	berufung	bn:00014839n bn:00005019n
+d006.s006.t006	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d006.s006.t007	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d006.s007.t002	procès n	prozeß	bn:00078198n
+d006.s007.t004	journaliste n	NONE
+d006.s007.t007	cirque n	NONE
+d006.s007.t010	jury n	jury	bn:00048658n bn:00823148n
+d006.s007.t011	passion n	NONE
+d006.s008.t002	juge n	appelationsgerichte
+d006.s008.t003	appel n	NONE
+d006.s009.t002	procès n	NONE
+d006.s009.t007	droit n	recht	bn:00050250n bn:00067807n bn:00048655n
+d006.s009.t008	personne n	NONE
+d006.s009.t009	procès n	NONE
+d006.s009.t010	avocat n	NONE
+d006.s009.t012	avocat n	NONE
+d006.s010.t001	juge n	richter	bn:00048488n bn:00207779n
+d006.s010.t002	procès n	NONE
+d006.s010.t004	jugement n	NONE
+d006.s010.t005	semaine n	woche	bn:00043484n bn:00014711n
+d006.s010.t006	médias n	neue_medien
+d006.s010.t007	preuve n	beweis	bn:00020446n bn:00053828n bn:00051859n bn:00032047n bn:00032045n
+d006.s010.t008	jury n	jury	bn:00048658n bn:00823148n
+d006.s010.t009	passion n	leidenschaft	bn:00060907n
+d006.s011.t001	mot n	wort	bn:00023218n bn:00047028n bn:00081547n bn:00081546n bn:04129125n bn:00852566n
+d006.s012.t001	cours_d'appel n	MONOSEMOUS	bn:00005022n
+d006.s012.t002	décennie n	jahrzehnt	bn:00025646n
+d006.s012.t003	couverture_médiatique n	berichterstattung
+d006.s012.t006	équité n	fairness	bn:00238436n bn:00031334n
+d006.s012.t007	procès n	prozeß	bn:00078198n
+d006.s013.t001	jugement n	entscheidung	bn:00021584n bn:00001400n bn:00048496n bn:00021628n
+d006.s013.t003	cour_suprême_des_états-unis n	MONOSEMOUS	bn:00075359n
+d006.s013.t004	condamnation n	in
+d006.s013.t006	Cleveland n	cleveland	bn:00346213n bn:16286146n bn:00683864n bn:00443813n bn:00225385n bn:00126421n bn:00551816n bn:00572852n bn:00408638n bn:00470639n bn:00581720n bn:00460668n bn:03384755n bn:00565011n bn:02646231n bn:00235047n bn:00495530n bn:00019742n
+d006.s013.t007	assassinat n	NONE
+d006.s013.t008	femme n	frau	bn:00034016n bn:00053531n bn:00001530n
+d006.s013.t011	carnaval n	und
+d006.s013.t012	procès n	ein
+d006.s013.t013	médias n	neue_medien
+d006.s014.t001	crime n	verbrechen	bn:00034010n bn:00023807n
+d006.s014.t004	télévision n	flucht
+d006.s014.t005	film n	NONE
+d006.s015.t001	avocat n	rechtsanwalt	bn:00007051n bn:01485021n bn:00008722n
+d006.s015.t002	tribunal n	NONE
+d006.s015.t003	appel n	NONE
+d006.s015.t005	condamnation n	verurteilung	bn:00021628n bn:00021624n
+d006.s015.t010	communication n	NONE
+d006.s016.t001	raison n	grund	bn:00066443n bn:00066444n bn:00016851n bn:00041881n
+d006.s016.t003	médias n	neue_medien
+d006.s016.t004	procès n	NONE
+d006.s016.t006	professeur n	professor	bn:13604010n bn:00036778n bn:00064601n
+d006.s016.t007	école n	NONE
+d006.s016.t009	peine_de_mort n	todesstrafe	bn:03409024n bn:00015656n
+d006.s016.t010	Connecticut n	connecticut	bn:00021904n
+d006.s016.t011	rapport n	bericht	bn:00067182n bn:00067181n
+d006.s017.t001	professeur n	professor	bn:13604010n bn:00036778n bn:00064601n
+d006.s017.t002	juge n	appelationsgerichte
+d006.s017.t003	appel n	NONE
+d006.s017.t004	idée n	idee	bn:00045800n
+d006.s017.t006	communication n	kommunikation	bn:00021221n bn:14098067n bn:00021226n bn:16980296n bn:14717389n
+d006.s017.t008	procès n	prozeß	bn:00078198n
+d006.s018.t003	avocat n	rechtsanwalt	bn:00007051n bn:01485021n bn:00008722n
+d006.s018.t004	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d006.s018.t005	exécution n	hinauszögern
+d006.s019.t001	avocat n	NONE
+d006.s019.t002	défense n	verteidiger	bn:00050565n bn:00025871n bn:00025872n
+d006.s019.t004	préjudice n	NONE
+d006.s019.t005	juge n	richter	bn:00048488n bn:00207779n
+d006.s019.t008	juré n	juror	bn:00048657n bn:00048658n
+d006.s019.t009	photo n	NONE
+d006.s019.t011	sélection n	tatortfotos
+d006.s019.t012	jury n	NONE
+d006.s020.t001	juré n	juror	bn:00048657n bn:00048658n
+d006.s020.t002	photo n	foto	bn:00032381n
+d006.s020.t004	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d006.s020.t005	fille n	NONE
+d006.s020.t006	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d006.s020.t007	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d006.s021.t001	avocat n	NONE
+d006.s021.t002	défense n	verteidiger	bn:00050565n bn:00025871n bn:00025872n
+d006.s021.t004	peine_de_mort n	todesstrafe	bn:03409024n bn:00015656n
+d006.s021.t005	juge n	richter	bn:00048488n bn:00207779n
+d006.s021.t006	juré n	juror	bn:00048657n bn:00048658n
+d006.s021.t007	procureur n	staatsanwaltschaft	bn:00064806n
+d006.s021.t009	verdict n	urteil	bn:00034552n bn:00048493n
+d006.s021.t011	jury n	jury	bn:00048658n bn:00823148n
+d006.s021.t012	week-end n	wochenende	bn:00080816n bn:00080813n
+d006.s022.t001	juré n	juror	bn:00048657n bn:00048658n
+d006.s023.t002	effet n	NONE
+d006.s023.t004	procès n	prozeß	bn:00078198n
+d006.s024.t002	verdict n	NONE
+d006.s024.t006	Connecticut n	connecticut	bn:00021904n
+d006.s024.t007	campagne_électorale n	wahlkampf	bn:00015050n
+d006.s024.t010	gouverneur n	gouverneur	bn:13601663n bn:14481596n bn:15388824n bn:01736094n bn:00136827n bn:00041205n bn:00041204n
+d006.s024.t011	sénat_des_états-unis n	MONOSEMOUS	bn:00070459n
+d006.s025.t001	médias n	neue_medien
+d006.s025.t002	flamme n	flamme	bn:05238884n bn:00034625n
+d006.s025.t003	émotion n	emotion	bn:00033963n bn:00030581n
+d006.s025.t004	affaire n	fall	bn:00016403n
+d006.s026.t001	bousculade n	NONE
+d006.s026.t003	médias n	d
+d006.s026.t004	caméra n	kamera	bn:00015008n
+d006.s026.t005	journaliste n	reporter	bn:00057562n bn:01012583n bn:00048461n
+d006.s026.t006	palais_de_justice n	außerhalb
+d006.s026.t007	avocat n	rechtsanwalt	bn:00007051n bn:01485021n bn:00008722n
+d006.s026.t008	rien n	NONE
+d006.s028.t001	interview n	interview	bn:00047238n bn:03455935n bn:02520818n bn:00571431n
+d006.s028.t002	journaliste n	journalist	bn:00022866n bn:00048461n
+d006.s028.t003	affirmation n	behauptung	bn:00001768n bn:00019404n bn:00002812n
+d006.s028.t008	couverture_médiatique n	berichterstattung
+d006.s028.t009	procès n	prozeß	bn:00078198n
+d006.s029.t001	avocat n	rechtsanwalt	bn:00007051n bn:01485021n bn:00008722n
+d006.s029.t002	cours_d'appel n	MONOSEMOUS	bn:00005022n
+d006.s029.t005	adaptation n	adaptation	bn:01281010n
+d006.s029.t006	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d006.s030.t001	avocat n	rechtsanwalt	bn:00007051n bn:01485021n bn:00008722n
+d006.s031.t004	condamnation n	verurteilung	bn:00021628n bn:00021624n
+d006.s031.t006	couverture_médiatique n	berichterstattung
+d006.s031.t007	procès n	NONE
+d006.s031.t010	médias n	neue_medien
+d006.s032.t001	affaire n	fall	bn:00016403n
+d006.s032.t002	siècle n	jahrhundert	bn:00910014n bn:00017234n
+d007.s001.t001	sport n	sport	bn:00006759n bn:03334335n bn:05284155n bn:14540978n
+d007.s001.t002	fraude n	regelumgehung
+d007.s001.t003	loi n	NONE
+d007.s002.t003	ingéniosité n	NONE
+d007.s003.t001	expulsion n	von
+d007.s003.t003	joueur n	spieler	bn:02476854n bn:00037167n bn:00060799n bn:01060449n bn:00001176n bn:00037168n
+d007.s003.t007	match n	spiel	bn:00036522n
+d007.s003.t008	novembre n	november	bn:00058192n
+d007.s003.t010	encre n	tinte	bn:00046794n
+d007.s003.t012	comportement n	NONE
+d007.s004.t001	minute n	minute	bn:00055094n
+d007.s004.t002	match n	NONE
+d007.s004.t003	équipe n	team	bn:00073699n
+d007.s004.t006	faute n	foul	bn:01229430n bn:00036052n
+d007.s004.t007	arbitre n	schiedsrichter	bn:00001401n bn:02191677n bn:00005340n bn:03753491n bn:14866890n bn:00035711n bn:00058701n bn:14681577n bn:00078929n
+d007.s005.t002	leader n	NONE
+d007.s005.t005	match n	NONE
+d007.s005.t006	match n	NONE
+d007.s005.t009	phase n	spielphase
+d007.s006.t001	comité n	NONE
+d007.s006.t003	match n	spiel	bn:00036522n
+d007.s006.t004	entraîneur n	trainer	bn:00020120n bn:00020119n bn:00077924n
+d007.s006.t005	équipe n	NONE
+d007.s006.t008	joueur n	spieler	bn:02476854n bn:00037167n bn:00060799n bn:01060449n bn:00001176n bn:00037168n
+d007.s007.t006	football n	fußball	bn:00006547n bn:00035704n bn:00035705n
+d007.s008.t001	ethos n	ethos	bn:00031735n bn:14941266n bn:05131003n bn:14556069n bn:02479193n
+d007.s008.t003	sport n	NONE
+d007.s009.t002	débat n	debatte	bn:00005601n bn:00025621n bn:00055838n
+d007.s009.t005	protagoniste n	NONE
+d007.s009.t006	équipe n	team	bn:00073699n
+d007.s009.t009	hymne n	hymne	bn:00004527n bn:00004526n
+d007.s009.t011	honneur n	ehre	bn:00044653n bn:00254237n bn:00044654n
+d007.s009.t013	amende n	NONE
+d007.s009.t020	technicien n	techniker	bn:00076338n
+d007.s010.t002	débat n	debatte	bn:00005601n bn:00025621n bn:00055838n
+d007.s010.t004	comportement n	ob
+d007.s010.t007	sport n	sport	bn:00006759n bn:03334335n bn:05284155n bn:14540978n
+d007.s010.t009	fraude n	regelumgehung
+d007.s010.t010	loi n	NONE
+d007.s010.t013	sens n	sinn	bn:00070499n bn:00070497n bn:00046139n bn:00972405n bn:00021164n bn:00070494n bn:00070498n
+d007.s013.t002	allusion n	sauber
+d007.s013.t004	équipe n	NONE
+d007.s013.t007	équipe n	NONE
+d007.s014.t001	fait n	NONE
+d007.s014.t005	tricherie n	NONE
+d007.s014.t006	fraude n	regelumgehung
+d007.s014.t007	loi n	NONE
+d007.s014.t008	violation n	NONE
+d007.s014.t012	pénalisation n	bestrafen	bn:00061325n
+d007.s014.t013	arbitre n	schiedsrichter	bn:00001401n bn:02191677n bn:00005340n bn:03753491n bn:14866890n bn:00035711n bn:00058701n bn:14681577n bn:00078929n
+d007.s016.t004	faute n	foul	bn:01229430n bn:00036052n
+d007.s017.t005	match n	spiel	bn:00036522n
+d007.s017.t006	résultat n	ergebnis	bn:00034520n bn:00021961n bn:00004452n bn:00029415n
+d007.s017.t008	fait n	NONE
+d007.s017.t009	équipe n	team	bn:00073699n
+d007.s018.t001	stratégie n	strategie	bn:21705767n bn:00074558n bn:00889848n bn:00069579n
+d007.s018.t002	match n	spiel	bn:00036522n
+d007.s018.t003	club n	club	bn:09056131n bn:00020039n bn:00899174n
+d007.s019.t004	phase n	spielphase
+d007.s019.t007	participation n	teilnahme	bn:00030844n
+d007.s019.t008	match n	spiel	bn:00036522n
+d007.s020.t002	long_terme n	langfristig
+d007.s020.t004	indétermination n	NONE
+d007.s020.t005	équipe n	team	bn:00073699n
+d007.s020.t008	match n	NONE
+d007.s022.t004	prise_de_décision n	MONOSEMOUS	bn:00025693n
+d007.s023.t005	fraude n	regelumgehung
+d007.s023.t006	loi n	NONE
+d007.s023.t007	moment n	NONE
+d007.s024.t002	pénalité n	strafe	bn:00061328n bn:00037196n
+d007.s025.t001	frontière n	grenze	bn:00036654n bn:00012212n bn:00012417n bn:03595116n bn:03575387n
+d007.s025.t004	loi n	NONE
+d007.s026.t001	polémique n	polemik	bn:00063310n bn:00063308n bn:00063309n
+d007.s027.t003	sport n	sport	bn:00006759n bn:03334335n bn:05284155n bn:14540978n
+d008.s001.t001	microbe n	mikrobe	bn:00054731n bn:00013701n
+d008.s001.t002	arsenic n	können
+d008.s001.t005	vie n	NONE
+d008.s002.t001	découverte n	entdeckung	bn:00027529n
+d008.s002.t002	bactérie n	MONOSEMOUS	bn:00007854n
+d008.s002.t003	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s003.t001	chercheur n	wissenschaftler	bn:00069680n
+d008.s003.t002	bactérie n	MONOSEMOUS	bn:00007854n
+d008.s003.t003	vie n	leben	bn:00051054n bn:00051052n bn:00051048n bn:00010534n bn:00051046n bn:14889509n bn:00051053n bn:00002761n bn:00051047n bn:00051045n bn:00051049n bn:00051050n
+d008.s004.t001	organisme n	organismus	bn:00009677n
+d008.s005.t001	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s005.t002	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s006.t003	Arizona n	arizona_state_university
+d008.s006.t005	rapport n	bericht	bn:00067182n bn:00067181n
+d008.s006.t006	édition n	NONE
+d008.s006.t008	jeudi n	MONOSEMOUS	bn:00076744n
+d008.s007.t001	élément n	NONE
+d008.s007.t002	vie n	NONE
+d008.s007.t003	carbone n	kohlenstoff	bn:00006890n bn:13590835n
+d008.s007.t004	hydrogène n	wasserstoff	bn:00006823n
+d008.s007.t005	azote n	stickstoff	bn:00006901n
+d008.s007.t006	oxygène n	sauerstoff	bn:00006912n
+d008.s007.t007	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s007.t008	soufre n	schwefel	bn:00006846n bn:00013137n
+d008.s008.t001	chercheur n	wissenschaftler	bn:00069680n
+d008.s008.t002	bactérie n	MONOSEMOUS	bn:00007854n
+d008.s008.t004	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s008.t005	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s009.t001	université n	von
+d008.s009.t002	Arizona n	arizona_state_university
+d008.s009.t004	rapport n	bericht	bn:00067182n bn:00067181n
+d008.s010.t001	découverte n	entdeckung	bn:00027529n
+d008.s010.t003	vie n	leben	bn:00051054n bn:00051052n bn:00051048n bn:00010534n bn:00051046n bn:14889509n bn:00051053n bn:00002761n bn:00051047n bn:00051045n bn:00051049n bn:00051050n
+d008.s010.t004	terre n	NONE
+d008.s010.t005	chercheur n	wissenschaftler	bn:00069680n
+d008.s010.t006	vie n	leben	bn:00051054n bn:00051052n bn:00051048n bn:00010534n bn:00051046n bn:14889509n bn:00051053n bn:00002761n bn:00051047n bn:00051045n bn:00051049n bn:00051050n
+d008.s010.t007	vie n	NONE
+d008.s011.t002	microbe n	mikrobe	bn:00054731n bn:00013701n
+d008.s012.t001	annonce n	ankündigung	bn:03280168n
+d008.s012.t002	conférence_de_presse n	MONOSEMOUS	bn:00057552n
+d008.s012.t005	Internet n	internet	bn:00024712n
+d008.s012.t006	rapport n	bericht	bn:00067182n bn:00067181n
+d008.s012.t007	découverte n	entdeckung	bn:00027529n
+d008.s012.t008	vie n	leben	bn:00051054n bn:00051052n bn:00051048n bn:00010534n bn:00051046n bn:14889509n bn:00051053n bn:00002761n bn:00051047n bn:00051045n bn:00051049n bn:00051050n
+d008.s014.t001	découverte n	entdeckung	bn:00027529n
+d008.s014.t002	environnement n	NONE
+d008.s014.t003	organisme n	organismus	bn:00009677n
+d008.s014.t005	élément n	element	bn:00018105n bn:21706302n bn:00021394n bn:00030300n bn:00021396n bn:00054282n bn:00727025n
+d008.s014.t006	biochimie n	biochemisch	bn:00010518n
+d008.s014.t008	élément n	lebensnotwendig
+d008.s014.t009	vie n	NONE
+d008.s014.t010	professeur n	professor	bn:13604010n bn:00036778n bn:00064601n
+d008.s014.t011	open_university n	MONOSEMOUS	bn:00059087n
+d008.s015.t001	équipe n	NONE
+d008.s015.t002	recherche n	forschungsteam
+d008.s016.t003	élément n	element	bn:00018105n bn:21706302n bn:00021394n bn:00030300n bn:00021396n bn:00054282n bn:00727025n
+d008.s016.t004	biochimie n	NONE
+d008.s017.t001	découverte n	entdeckung	bn:00027529n
+d008.s018.t002	institut n	MONOSEMOUS	bn:00046952n
+d008.s018.t004	NASA n	nasa	bn:01285086n bn:00056879n bn:00715066n
+d008.s018.t008	arsenic n	arsengehalts
+d008.s019.t001	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s019.t002	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s019.t003	microbe n	mikrobe	bn:00054731n bn:00013701n
+d008.s020.t001	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s020.t002	comportement n	verhalten	bn:00009379n bn:00009654n bn:00009655n bn:00009656n bn:00009657n
+d008.s020.t003	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s021.t001	organisme n	organismus	bn:00009677n
+d008.s021.t003	élément n	element	bn:00018105n bn:21706302n bn:00021394n bn:00030300n bn:00021396n bn:00054282n bn:00727025n
+d008.s022.t001	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s022.t002	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s022.t005	machine n	NONE
+d008.s023.t001	chercheur n	forscher	bn:00047356n bn:16378530n
+d008.s023.t002	bactérie n	MONOSEMOUS	bn:00007854n
+d008.s023.t003	nom n	NONE
+d008.s023.t004	concentration n	NONE
+d008.s023.t005	arsenic n	passen
+d008.s024.t001	microbe n	mikrobe	bn:00054731n bn:00013701n
+d008.s024.t002	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s024.t004	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s024.t009	arsenic n	NONE
+d008.s024.t010	planète n	planet	bn:00210862n bn:00052888n
+d008.s025.t001	professeur n	NONE
+d008.s025.t002	microbiologie n	MONOSEMOUS	bn:00054734n
+d008.s025.t004	idée n	idee	bn:00045800n
+d008.s025.t005	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s025.t006	phosphore n	phosphor	bn:00006845n bn:00062054n
+d008.s026.t001	arsenic n	arsen	bn:00005917n bn:00005920n
+d008.s026.t003	existence n	NONE
+d008.s026.t004	terre n	NONE
+d008.s026.t005	chercheur n	NONE
+d008.s026.t006	hypothèse n	NONE
+d008.s027.t002	vie n	leben	bn:00051054n bn:00051052n bn:00051048n bn:00010534n bn:00051046n bn:14889509n bn:00051053n bn:00002761n bn:00051047n bn:00051045n bn:00051049n bn:00051050n
+d008.s027.t004	vie n	NONE
+d008.s027.t006	équipe n	NONE
+d008.s027.t007	recherche n	NONE
+d008.s028.t001	recherche n	forschungsarbeit	bn:00067280n
+d008.s028.t002	NASA n	nasa	bn:01285086n bn:00056879n bn:00715066n
+d008.s028.t003	ministère n	energieministerium
+d008.s028.t005	Institut_national_de_la_santé n	MONOSEMOUS	bn:00056932n
+d009.s002.t002	démocratie n	demokratiebewegung	bn:00021207n
+d009.s003.t001	crime n	kriminalität
+d009.s003.t002	inquiétude n	als
+d009.s003.t003	chômage n	arbeitslosigkeit	bn:00079045n
+d009.s004.t001	etats-unis n	vereinigte_staaten	bn:00003341n
+d009.s004.t003	région n	region	bn:14326780n bn:00066884n bn:00005515n bn:00060767n
+d009.s005.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s006.t004	attitude n	NONE
+d009.s006.t005	région n	region	bn:14326780n bn:00066884n bn:00005515n bn:00060767n
+d009.s007.t002	résultat n	NONE
+d009.s007.t004	année n	NONE
+d009.s007.t005	septembre n	september	bn:17319913n bn:00070537n
+d009.s007.t007	octobre n	oktober	bn:00058593n bn:02664192n
+d009.s008.t001	humeur n	stimmung	bn:00055441n bn:00045201n
+d009.s009.t003	attitude n	NONE
+d009.s009.t004	démocratie n	demokratie	bn:00026146n bn:00021207n
+d009.s009.t005	institution n	institution	bn:00046954n
+d009.s010.t002	démocratie n	d
+d009.s010.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s010.t004	Amérique_du_Sud n	zunehmen
+d009.s010.t005	tableau n	tabelle	bn:00075812n
+d009.s011.t002	croissance_économique n	MONOSEMOUS	bn:00029670n
+d009.s011.t003	moyenne n	NONE
+d009.s011.t004	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s011.t006	démocratie n	NONE
+d009.s011.t008	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d009.s012.t001	économie n	wirtschaft	bn:00029678n bn:00029676n bn:00029683n bn:01186837n
+d009.s012.t003	production n	solch
+d009.s012.t004	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s013.t001	moitié n	hälfte	bn:00042601n
+d009.s013.t002	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s013.t005	moyenne n	durchschnitt	bn:00005677n bn:00007449n
+d009.s013.t006	tableau n	NONE
+d009.s014.t001	région n	NONE
+d009.s014.t003	démocratie n	ihr
+d009.s014.t004	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s014.t005	pratique n	praxis	bn:00063989n bn:00061054n bn:00028736n
+d009.s014.t006	chiffre n	NONE
+d009.s014.t007	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s014.t009	graphique n	diagramm	bn:00017904n
+d009.s015.t001	confiance n	vertrauen	bn:03845702n bn:00067032n bn:03732876n bn:00032769n bn:00021742n bn:00006565n
+d009.s015.t002	parlement n	regierung
+d009.s015.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s015.t004	gouvernement n	regierung	bn:00007299n bn:00001426n
+d009.s015.t005	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s016.t002	problème n	NONE
+d009.s016.t004	démocratie n	demokratie	bn:00026146n bn:00021207n
+d009.s017.t001	crise_financière_mondiale n	MONOSEMOUS	bn:15316540n
+d009.s017.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s017.t004	récession n	NONE
+d009.s018.t002	sécurité_sociale n	durch
+d009.s018.t003	pauvre n	auffangen
+d009.s019.t001	commission n	%	bn:00061135n
+d009.s019.t002	nations_unies n	MONOSEMOUS	bn:00078931n
+d009.s019.t003	semaine n	woche	bn:00043484n bn:00014711n
+d009.s019.t005	pauvreté n	in
+d009.s019.t006	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d009.s020.t001	humeur n	NONE
+d009.s020.t002	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s020.t003	graphique n	NONE
+d009.s021.t002	popularité n	beliebtheit	bn:00063592n
+d009.s021.t003	président n	präsident	bn:00064233n bn:00017517n bn:00064234n bn:01835121n bn:04707974n
+d009.s022.t001	récession n	rezession	bn:00066516n
+d009.s022.t002	crime n	NONE
+d009.s023.t004	crime n	kriminalität
+d009.s023.t005	chômage n	arbeitslosigkeit	bn:00079045n
+d009.s023.t006	problème n	problem	bn:00064526n bn:00064527n bn:00048242n
+d009.s023.t007	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s023.t008	tableau n	NONE
+d009.s024.t003	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d009.s024.t004	chiffre n	NONE
+d009.s024.t006	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d009.s025.t005	économie_de_marché n	d
+d009.s025.t009	graphique n	NONE
+d009.s026.t001	économie_de_marché n	marktwirtschaft	bn:00036346n
+d009.s026.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s026.t004	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s027.t001	Venezuela n	venezuela	bn:00175404n bn:02224587n bn:10172336n bn:03664437n bn:00067239n
+d009.s027.t002	avis n	NONE
+d009.s027.t004	président n	präsident	bn:00064233n bn:00017517n bn:00064234n bn:01835121n bn:04707974n
+d009.s027.t005	gauche n	link
+d009.s028.t003	personne n	NONE
+d009.s028.t004	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s028.t005	états-unis n	NONE
+d009.s028.t006	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s028.t007	Venezuela n	venezuela	bn:00175404n bn:02224587n bn:10172336n bn:03664437n bn:00067239n
+d009.s028.t008	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d009.s029.t001	états-unis n	usa	bn:00003341n
+d009.s029.t002	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d009.s029.t004	Venezuela n	venezuela	bn:00175404n bn:02224587n bn:10172336n bn:03664437n bn:00067239n
+d009.s029.t005	distinction n	NONE
+d009.s029.t006	Équateur n	NONE
+d009.s029.t007	République_dominicaine n	MONOSEMOUS	bn:00028188n
+d009.s029.t008	Nicaragua n	nicaragua	bn:00057614n bn:04802794n
+d010.s002.t005	opposition n	NONE
+d010.s002.t007	Président n	präsident	bn:00064233n bn:00017517n bn:00064234n bn:01835121n bn:04707974n
+d010.s002.t008	santé n	NONE
+d010.s002.t009	juge n	richter	bn:00048488n bn:00207779n
+d010.s002.t013	cabinet_d'avocats n	kanzlei	bn:00050277n bn:00050257n
+d010.s002.t014	affaire n	fall	bn:00016403n
+d010.s002.t015	haute_cour n	gericht
+d010.s003.t001	événement n	vorfall	bn:02131709n
+d010.s003.t002	jeudi n	MONOSEMOUS	bn:00076744n
+d010.s003.t003	juge n	richter	bn:00048488n bn:00207779n
+d010.s003.t005	pétition n	petition	bn:00061826n
+d010.s004.t001	affaire n	fall	bn:00016403n
+d010.s004.t003	procès n	klage	bn:00016403n
+d010.s004.t004	réforme n	reform	bn:03301227n bn:00066830n
+d010.s004.t005	soins_de_santé n	MONOSEMOUS	bn:00043361n
+d010.s004.t006	congrès n	kongress	bn:00021846n bn:00021844n bn:00021845n
+d010.s004.t007	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d010.s004.t010	conservateur n	konservativ
+d010.s005.t001	juge n	richter	bn:00048488n bn:00207779n
+d010.s005.t002	plainte n	NONE
+d010.s005.t004	mars n	märz	bn:00053318n bn:06123604n
+d010.s005.t005	résultat n	ergebnis	bn:00034520n bn:00021961n bn:00004452n bn:00029415n
+d010.s005.t009	moment n	zeitpunkt	bn:00010728n bn:00063216n bn:04080826n bn:01188813n
+d010.s005.t011	tribunal n	werden
+d010.s006.t001	avocat n	anwalt	bn:00001604n bn:00007051n bn:00072715n bn:00001603n bn:00008722n
+d010.s006.t002	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d010.s006.t005	administration n	regierung	bn:00001426n
+d010.s006.t006	george_w._bush n	MONOSEMOUS	bn:00014098n
+d010.s007.t003	douzaine n	dutzend	bn:00000020n
+d010.s007.t006	groupe n	gruppe	bn:17081477n bn:00018111n bn:00002913n bn:00008279n bn:00013875n bn:00068051n bn:00013873n bn:01071456n bn:00041943n bn:13598833n bn:00056461n bn:00073698n bn:00008280n bn:00002229n bn:00041942n
+d010.s008.t003	association n	NONE
+d010.s009.t004	résultat n	ergebnis	bn:00034520n bn:00021961n bn:00004452n bn:00029415n
+d010.s009.t005	litige n	beteiligen
+d010.s010.t002	hôtel n	hotel	bn:03834279n bn:00044967n bn:01874691n bn:03670661n
+d010.s010.t003	heure n	stunde	bn:00044982n bn:00000127n
+d010.s010.t005	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d010.s010.t006	affaire n	fall	bn:00016403n
+d010.s011.t004	santé n	gesundheitsreform
+d010.s013.t001	juge n	richter	bn:00048488n bn:00207779n
+d010.s013.t003	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d010.s014.t001	rien n	verstoßen
+d010.s015.t001	juge n	richter	bn:00048488n bn:00207779n
+d010.s015.t002	code_de_conduite n	MONOSEMOUS	bn:00020356n
+d010.s015.t004	juge n	bundesrichter
+d010.s016.t001	doute n	NONE
+d010.s016.t002	code n	kodex	bn:00020352n
+d010.s016.t003	juge n	richter	bn:00048488n bn:00207779n
+d010.s016.t006	organisation n	organisation	bn:03175574n bn:00059480n bn:00059482n bn:00059481n bn:00001423n bn:03176813n bn:00005863n
+d010.s016.t007	droit n	gesetz	bn:00050250n bn:00048655n bn:00050249n
+d010.s016.t008	juge n	richter	bn:00048488n bn:00207779n
+d010.s016.t011	programme n	programm	bn:00021497n bn:00064647n bn:01245565n bn:00062759n bn:00013235n bn:00021492n
+d010.s017.t003	cabinet_d'avocats n	kanzlei	bn:00050277n bn:00050257n
+d010.s017.t004	affaire n	fall	bn:00016403n
+d010.s017.t005	entreprise n	unternehmen	bn:00021286n bn:00031008n bn:00014137n bn:00014138n bn:01090673n bn:00073910n bn:00022811n bn:00014142n bn:00014160n
+d010.s017.t007	éthique n	zu
+d010.s018.t001	violation n	NONE
+d010.s018.t004	code n	NONE
+d010.s018.t006	juge n	richter	bn:00048488n bn:00207779n
+d010.s018.t008	juge n	bundesrichter
+d010.s018.t009	président n	präsident	bn:00064233n bn:00017517n bn:00064234n bn:01835121n bn:04707974n
+d010.s019.t001	juge n	richter	bn:00048488n bn:00207779n
+d010.s019.t002	collecte_de_fonds n	dinnierten
+d010.s019.t004	avocat n	rechtsanwalt	bn:00007051n bn:01485021n bn:00008722n
+d010.s019.t007	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d010.s020.t002	participation n	ihr
+d010.s020.t003	collecte_de_fonds n	spendenaktion	bn:00063344n bn:00036849n
+d010.s020.t006	impartialité n	unparteilichkeit	bn:00046077n
+d010.s021.t002	critique n	kritiker	bn:00023856n bn:00023864n bn:00023857n bn:00023858n bn:00023869n
+d010.s021.t003	affaire n	NONE
+d010.s022.t001	femme n	NONE
+d010.s022.t002	conservateur n	NONE
+d010.s023.t001	conservateur n	konservative	bn:00021974n
+d010.s023.t002	juge n	NONE
+d010.s023.t004	problème n	problem	bn:00064526n bn:00064527n bn:00048242n
+d010.s023.t005	éthique n	NONE
+d010.s024.t001	administration n	NONE
+d010.s024.t005	tribunal_de_première_instance n	gericht	bn:00078206n
+d011.s001.t001	expérience n	NONE
+d011.s001.t002	espagnol n	spanier	bn:00073093n bn:00073090n
+d011.s002.t001	footballeur n	d
+d011.s003.t001	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d011.s003.t002	rencontre n	NONE
+d011.s004.t002	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d011.s004.t003	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d011.s004.t006	san_josé n	NONE
+d011.s005.t001	champion n	NONE
+d011.s005.t002	Europe n	NONE
+d011.s005.t007	classe n	klasse	bn:21706240n bn:03367941n bn:17528560n bn:00016733n bn:03608262n bn:00019482n bn:00019483n bn:02928599n bn:00019478n bn:00019479n bn:01341184n bn:00019477n
+d011.s005.t008	défenseur n	als
+d011.s005.t011	match n	spiel	bn:00036522n
+d011.s006.t001	chiffre n	zahl	bn:00027078n bn:00058287n bn:00034394n
+d011.s006.t002	vendredi n	freitag	bn:00036512n
+d011.s006.t003	match n	spiel	bn:00036522n
+d011.s006.t004	Panama n	panama	bn:00397952n bn:00432803n bn:03840997n bn:03892058n bn:03161332n bn:00229734n bn:09341032n bn:00060340n
+d011.s007.t001	footballeur n	NONE
+d011.s007.t002	club n	club	bn:09056131n bn:00020039n bn:00899174n
+d011.s007.t003	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d011.s007.t005	championnat n	NONE
+d011.s007.t006	ligue n	liga	bn:16428274n bn:00050410n bn:00021722n
+d011.s009.t001	footballeur n	NONE
+d011.s009.t002	expérience n	NONE
+d011.s010.t003	gardien_de_but n	torwart	bn:00040851n
+d011.s010.t005	samedi n	samstag	bn:00068696n
+d011.s010.t008	gardien_de_but n	torwart	bn:00040851n
+d011.s010.t010	rencontre n	NONE
+d011.s011.t001	record n	NONE
+d011.s013.t001	semaine n	woche	bn:00043484n bn:00014711n
+d011.s013.t003	équipe n	mannschaft	bn:00073699n
+d011.s014.t001	chiffre n	zahl	bn:00027078n bn:00058287n bn:00034394n
+d011.s017.t001	match n	spiel	bn:00036522n
+d011.s022.t003	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d011.s024.t001	costa_rica n	costa_rica	bn:03750706n bn:00023013n bn:00023012n
+d012.s001.t001	immigration n	immigration	bn:01797253n bn:00046021n
+d012.s001.t004	économie n	wirtschaft	bn:00029678n bn:00029676n bn:00029683n bn:01186837n
+d012.s002.t001	politique n	politik	bn:21705859n bn:00063351n bn:00063330n bn:00063329n
+d012.s002.t002	immigration n	werden
+d012.s002.t005	service n	NONE
+d012.s002.t010	statut n	status	bn:00063703n bn:00021644n
+d012.s002.t011	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d012.s002.t012	droits_de_l'homme n	menschenrecht	bn:00045163n
+d012.s002.t014	france n	frankreich	bn:00036202n bn:02758497n
+d012.s003.t001	harcèlement n	belästigung	bn:00042917n
+d012.s003.t003	étudiant n	student	bn:00003164n bn:00020647n bn:00079004n bn:00029806n bn:00012135n
+d012.s003.t004	actualité n	NONE
+d012.s003.t007	mai n	mai	bn:00903751n bn:00053941n bn:17543235n bn:02859285n
+d012.s003.t009	france n	frankreich	bn:00036202n bn:02758497n
+d012.s003.t012	maçon n	maurer	bn:00013057n bn:00053648n
+d012.s003.t013	serveur n	NONE
+d012.s003.t014	restaurant n	NONE
+d012.s005.t001	sujet n	thema	bn:00074900n bn:00022157n bn:00045803n
+d012.s006.t004	problème n	problem	bn:00064526n bn:00064527n bn:00048242n
+d012.s006.t005	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d012.s006.t006	million n	million	bn:14389146n bn:00000013n
+d012.s006.t009	france n	frankreich	bn:00036202n bn:02758497n
+d012.s006.t011	monde n	welt	bn:00045153n bn:00028141n bn:00066418n bn:00029428n bn:00081622n bn:00022991n bn:00029424n bn:00063584n
+d012.s007.t003	générosité n	groβzügigkeit
+d012.s008.t001	peur n	angst	bn:00314110n bn:00033854n
+d012.s008.t002	invasion n	invasion	bn:00047325n bn:02049565n bn:00318762n bn:01414095n bn:01330758n bn:01752043n bn:03665394n bn:02049571n
+d012.s008.t005	plombier n	MONOSEMOUS	bn:00062576n
+d012.s008.t006	droite n	rechts	bn:13100763n
+d012.s009.t002	immigrant n	einwanderer	bn:00046019n bn:12647179n bn:00046021n
+d012.s009.t004	économie n	wirtschaft	bn:00029678n bn:00029676n bn:00029683n bn:01186837n
+d012.s009.t005	société n	gesellschaft	bn:00072566n bn:00021286n bn:14146654n bn:00014137n bn:01090673n bn:00020039n bn:00021284n
+d012.s010.t003	générosité n	groβzügigkeit
+d012.s011.t001	programme n	programm	bn:00021497n bn:00064647n bn:01245565n bn:00062759n bn:00013235n bn:00021492n
+d012.s011.t003	banalité n	banalität	bn:00008267n bn:00073863n
+d012.s011.t005	problème n	NONE
+d012.s012.t001	idée n	vorstellung
+d012.s012.t002	immigration n	immigration	bn:01797253n bn:00046021n
+d012.s012.t004	problème n	problem	bn:00064526n bn:00064527n bn:00048242n
+d012.s013.t001	économiste n	MONOSEMOUS	bn:00029667n
+d012.s013.t003	connaissance n	erkenntnis	bn:00020452n bn:00007498n
+d012.s013.t004	immigration n	immigration	bn:01797253n bn:00046021n
+d012.s013.t005	mai n	mai	bn:00903751n bn:00053941n bn:17543235n bn:02859285n
+d012.s013.t011	croissance_économique n	MONOSEMOUS	bn:00029670n
+d012.s013.t012	salaire n	lohn	bn:00061123n bn:00029416n
+d012.s013.t013	emploi n	NONE
+d012.s013.t014	pays n	NONE
+d012.s013.t015	immigrant n	NONE
+d012.s014.t001	immigration n	einwanderung	bn:00046021n
+d012.s014.t003	emploi n	schädigen
+d012.s015.t001	crainte n	NONE
+d012.s015.t004	idée n	vorstellung
+d012.s015.t008	salaire n	lohn	bn:00061123n bn:00029416n
+d012.s016.t001	expérience n	erfahrung	bn:01433931n bn:00032307n bn:00032308n bn:00032306n
+d012.s016.t002	réalité n	wahrheit	bn:00078498n
+d012.s016.t003	immigrant n	immigrant	bn:00046019n bn:00046021n
+d012.s016.t007	métier n	beruf	bn:00064607n bn:00064608n bn:00014138n bn:00030625n bn:00030616n
+d012.s016.t009	pénurie n	arbeitsplatztechnisch
+d012.s017.t001	immigrant n	immigrant	bn:00046019n bn:00046021n
+d012.s017.t005	formation n	ausbildung	bn:00026980n bn:00041853n
+d012.s017.t007	emploi n	NONE
+d012.s018.t001	effet n	NONE
+d012.s018.t002	salaire n	lohneffekt
+d012.s019.t002	chirurgien n	chirurg	bn:00059129n bn:00059122n
+d012.s019.t004	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d012.s019.t005	pénurie n	mangel	bn:00025913n bn:00025916n bn:00025581n
+d012.s019.t006	anesthésiste n	anästhesist	bn:00003755n
+d012.s019.t011	immigrant n	d
+d012.s019.t012	effet n	NONE
+d012.s019.t013	salaire n	lohn	bn:00061123n bn:00029416n
+d012.s019.t014	emploi n	arbeitsmarktsituation
+d012.s020.t004	salaire n	NONE
+d012.s020.t005	long_terme n	herbeifahren
+d012.s021.t004	immigrant n	immigrant	bn:00046019n bn:00046021n
+d012.s021.t006	idée n	NONE
+d012.s021.t007	croissance_économique n	MONOSEMOUS	bn:00029670n
+d012.s021.t009	immigrant n	immigrant	bn:00046019n bn:00046021n
+d012.s021.t010	prix_nobel n	nobelpreisträger	bn:00057831n
+d012.s021.t011	Google n	google	bn:00212508n bn:00041092n
+d012.s021.t013	Yahoo n	yahoo	bn:00081801n bn:00081800n
+d012.s021.t014	immigrant n	einwanderer	bn:00046019n bn:12647179n bn:00046021n
+d012.s022.t003	moyenne n	NONE
+d012.s022.t005	budget n	NONE
+d012.s022.t006	pays n	land	bn:00023248n bn:00023237n bn:00023236n bn:00023235n bn:00026129n bn:00028934n
+d012.s023.t004	immigrant n	d
+d012.s023.t006	an n	jahr	bn:00004379n bn:00081857n bn:00006662n bn:00078738n
+d012.s023.t010	euro n	euro	bn:00031888n bn:14313060n
+d012.s023.t011	budget n	NONE
+d012.s024.t003	mandat n	mandat	bn:00007292n bn:00368883n bn:01053968n bn:00368897n bn:00053151n
+d012.s024.t006	dent n	zahn	bn:00020442n bn:00077593n
+d012.s025.t001	dent n	zahn	bn:00020442n bn:00077593n
+d012.s025.t003	immigrant n	immigrant	bn:00046019n bn:00046021n
+d012.s025.t004	effet n	NONE
+d013.s001.t001	banque n	NONE
+d013.s001.t004	million n	NONE
+d013.s001.t006	USA n	usa	bn:00003341n bn:00424853n bn:01802008n bn:06693172n bn:17174141n bn:09308863n bn:03892121n bn:16340121n bn:01109149n
+d013.s002.t005	banque n	NONE
+d013.s002.t007	amende n	NONE
+d013.s002.t008	million n	NONE
+d013.s003.t001	problème n	problem	bn:00064526n bn:00064527n bn:00048242n
+d013.s003.t006	USA n	usa	bn:00003341n bn:00424853n bn:01802008n bn:06693172n bn:17174141n bn:09308863n bn:03892121n bn:16340121n bn:01109149n
+d013.s003.t007	institut n	MONOSEMOUS	bn:00046952n
+d013.s003.t008	million n	NONE
+d013.s003.t009	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d013.s003.t010	million n	million	bn:14389146n bn:00000013n
+d013.s003.t011	euro n	euro	bn:00031888n bn:14313060n
+d013.s003.t013	faillite n	pleite	bn:00008420n
+d013.s003.t014	banque n	genossenschaftsbank
+d013.s003.t015	crise_financière n	finanzkrise	bn:02241308n bn:02710972n
+d013.s004.t002	document n	NONE
+d013.s004.t003	hypothèque n	hypothekenpapieren
+d013.s005.t002	marché_financier n	NONE
+d013.s005.t003	banque n	großbank
+d013.s005.t006	banque_coopérative n	genossenschaftsbank	bn:03323525n bn:00023681n
+d013.s005.t007	promesse n	NONE
+d013.s005.t009	produit n	NONE
+d013.s006.t001	document n	derartig
+d013.s006.t002	valeur n	wert	bn:00079511n bn:00079509n bn:00079508n bn:00029680n bn:00058151n
+d013.s006.t003	crise_financière n	finanzkrise	bn:02241308n bn:02710972n
+d013.s006.t004	banque n	bank	bn:15346085n bn:00008364n bn:00008367n bn:00008363n
+d013.s007.t002	sujet n	thema	bn:00074900n bn:00022157n bn:00045803n
+d013.s007.t003	partie n	partei	bn:00060837n bn:00060835n bn:00060836n
+d013.s007.t004	procédure n	NONE
+d013.s007.t005	tribunal n	gericht	bn:00023308n bn:00023301n bn:03759333n
+d013.s007.t008	new_york n	new_york	bn:02807096n bn:01773732n bn:02530635n bn:15051322n bn:00030605n bn:03329496n bn:03579775n bn:03574852n bn:02829862n bn:03726865n bn:02980608n bn:00041611n
+d013.s008.t001	banque n	bank	bn:15346085n bn:00008364n bn:00008367n bn:00008363n
+d013.s009.t001	paiement n	zahlung	bn:00025954n bn:00061119n
+d013.s009.t003	million n	million	bn:14389146n bn:00000013n
+d013.s009.t004	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d013.s010.t001	président n	NONE
+d013.s010.t003	établissement_bancaire n	MONOSEMOUS	bn:00008364n
+d013.s011.t001	banque_coopérative n	und
+d013.s011.t002	USA n	NONE
+d013.s011.t003	faillite n	pleite	bn:00008420n
+d013.s011.t004	dépôt n	kundeneinlage
+d013.s011.t005	clientèle n	schützen
+d013.s012.t001	dommage n	NONE
+d013.s012.t003	dollar n	bekommen
+d013.s014.t001	banque n	großbank
+d013.s014.t002	été n	sommer	bn:16851255n bn:00075151n
+d013.s015.t002	document n	NONE
+d013.s015.t003	hypothèque n	hypothekenpapieren
+d013.s016.t002	crédit n	liegen
+d013.s017.t003	société_bancaire n	MONOSEMOUS	bn:00008364n
+d013.s018.t001	septembre n	september	bn:17319913n bn:00070537n
+d013.s018.t003	crise_financière n	finanzkrise	bn:02241308n bn:02710972n
+d013.s018.t004	banque_d'investissement n	MONOSEMOUS	bn:00047365n
+d013.s018.t005	USA n	NONE
+d013.s019.t002	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d013.s019.t004	banque n	bank	bn:15346085n bn:00008364n bn:00008367n bn:00008363n
+d013.s019.t005	vent n	wind	bn:08936963n bn:00002216n
+d013.s019.t006	tempête n	entgegen
+d013.s020.t001	investisseur n	investor	bn:00047367n
+d013.s020.t002	autorité n	aufsichtsbehörde
+d013.s020.t003	surveillance n	unzählig
+d013.s021.t001	vague n	klagewelle
+d013.s021.t002	plainte n	auslösen
+d013.s022.t001	banque n	großbank
+d013.s022.t002	financier n	NONE
+d013.s022.t003	immobilier n	MONOSEMOUS	bn:00046038n
+d013.s022.t004	état n	NONE
+d013.s022.t005	fannie_mae n	fannie_mae	bn:00033638n bn:01358219n
+d013.s022.t006	freddie_mac n	MONOSEMOUS	bn:00033911n
+d013.s022.t009	hypothèque n	NONE
+d013.s022.t011	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d013.s023.t006	dollar n	dollar	bn:00028115n bn:00028114n bn:03167635n bn:00079129n bn:15868448n bn:00013578n
+d013.s023.t007	année n	jahr	bn:00004401n bn:00004379n bn:00001939n bn:00081857n bn:00006662n bn:00078738n
+d013.s024.t001	autorité n	aufsichtsbehörde
+d013.s024.t002	surveillance n	NONE
+d013.s025.t002	demande n	NONE
