@@ -1,4 +1,4 @@
-# BabAlign
+# Improving Word Sense Disambiguation with Translations
 
 This repository contains the source code to replicate our results on "translatioins for WSD". 
 <!-- results in our [... paper](url). -->
@@ -176,7 +176,7 @@ optional arguments:
   -o OUT, --out OUT             name of the output file
 ```
 
-This will produce an output file under [`outputs`](https://github.com/YixingLuan/translations4wsd/blob/master/outputs).
+This will produce an output file under [`mwsd_outputs`](https://github.com/YixingLuan/translations4wsd/blob/master/mwsd_outputs).
 Also, this will show precision / recall / F1 based on the official scoring script (`Scorer.java`).
 
 
