@@ -333,7 +333,7 @@ def combine_all_experts(ranked_sense_scores, trans_cons_factor, sense_freq, a, b
 
 def HardConstraint(test_name, t_type, lang, out_name, base, t_s_constraint_intersect):
 
-    out_path = "outputs/" + out_name
+    out_path = "mwsd_outputs/" + out_name
     newf = codecs.open(out_path, "w", encoding="utf-8")
 
     for i_id, ranked_sense_scores in base.items():
@@ -375,7 +375,7 @@ def HardConstraint(test_name, t_type, lang, out_name, base, t_s_constraint_inter
 
 def SoftConstraint(test_name, t_type, lang, out_name, base, sense_freq_dict, t_s_constraint1, t_s_constraint2, t_s_constraint3, t_s_constraint4, a, b, c, smoothing):
 
-    out_path = "outputs/" + out_name
+    out_path = "mwsd_outputs/" + out_name
     newf = codecs.open(out_path, "w", encoding="utf-8")
 
     for i_id, p_wsd in base.items():
