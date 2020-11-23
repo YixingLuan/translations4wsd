@@ -1,9 +1,9 @@
 # Improving Word Sense Disambiguation with Translations
 
-This repository contains the source code to replicate our results on "translatioins for WSD". 
-<!-- results in our [... paper](url). -->
+This repository contains the source code to replicate the results on our EMNLP2020 paper [Improving Word Sense Disambiguation with Translations](https://www.aclweb.org/anthology/2020.emnlp-main.332/).
 
 We include our replication scripts/results for base WSD systems and our methods. 
+Also, please find the presented word alignment algorithm BabAlign [here](https://github.com/YixingLuan/BabAlign).
 
 
 ## Table of Contents
@@ -183,5 +183,18 @@ Also, this will show precision / recall / F1 based on the official scoring scrip
 ## References
 
 ```
-TBD
+@inproceedings{luan-etal-2020-improving,
+    title = "Improving Word Sense Disambiguation with Translations",
+    author = "Luan, Yixing  and
+      Hauer, Bradley  and
+      Mou, Lili  and
+      Kondrak, Grzegorz",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.332",
+    pages = "4055--4065",
+}
 ```
